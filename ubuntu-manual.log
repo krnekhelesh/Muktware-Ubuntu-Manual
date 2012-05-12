@@ -1,0 +1,2538 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.4.23)  26 APR 2012 18:30
+entering extended mode
+ %&-line parsing enabled.
+**ubuntu-manual.tex
+(./ubuntu-manual.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@dimlist=\toks22
+)
+(/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count105
+)
+\c@KVtest=\count106
+\sf@farskip=\skip46
+\sf@captopadj=\dimen125
+\sf@capskip=\skip47
+\sf@nearskip=\skip48
+\c@subfigure=\count107
+\c@subfigure@save=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@subtable@save=\count111
+\c@lotdepth=\count112
+\sf@top=\skip49
+\sf@bottom=\skip50
+)
+(/usr/share/texmf-texlive/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen126
+\WF@size=\dimen127
+\c@WF@wrappedlines=\count113
+\WF@box=\box28
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+) (./mcode.sty
+-- Package: `mcode' 1.9 <2010/05/04> --
+Package: mcode 2010/05/04 1.9
+ - settings optimized for display (colour formating)
+ - line numbering enabled
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count114
+\lst@gtempboxa=\box29
+\lst@token=\toks24
+\lst@length=\count115
+\lst@currlwidth=\dimen128
+\lst@column=\count116
+\lst@pos=\count117
+\lst@lostspace=\dimen129
+\lst@width=\dimen130
+\lst@newlines=\count118
+\lst@lineno=\count119
+\lst@maxwidth=\dimen131
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box30
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texmf-texlive/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+))
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count122
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box31
+\rot@mess@toks=\toks25
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen132
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `final' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count125
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+\Field@toks=\toks26
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count126
+\c@Item=\count127
+\c@Hfootnote=\count128
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count129
+)
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count130
+\calc@Bcount=\count131
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count132
+\calc@Cskip=\skip64
+)
+(/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@toc@title=\toks27
+\c@AM@survey=\count133
+\AM@templatesizebox=\box33
+)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
+\@indexfile=\write3
+\openout3 = `ubuntu-manual.idx'.
+
+
+Writing index file ubuntu-manual.idx
+(./ubuntu-manual.aux
+
+LaTeX Warning: Label `sect:obtain_ubuntu' multiply defined.
+
+
+LaTeX Warning: Label `fig:installer-keyboard' multiply defined.
+
+
+LaTeX Warning: Label `fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:sound-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
+
+
+LaTeX Warning: Label `tab:keyboard-shortcuts' multiply defined.
+
+)
+\openout1 = `ubuntu-manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
+ (/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count134
+\scratchdimen=\dimen137
+\scratchbox=\box34
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen138
+\MPnumerator=\count138
+\everyMPtoPDFconversion=\toks29
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 56.9055pt, 483.69687pt, 56.9055pt
+v-parts: 56.9055pt, 731.23584pt, 56.9055pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  483.69687pt
+\textheight 731.23584pt
+\oddsidemargin  -15.36449pt
+\evensidemargin -15.36449pt
+\topmargin  -45.43198pt
+\headheight 12.0pt
+\headsep    18.06749pt
+\footskip   25.29494pt
+\marginparwidth 61.0pt
+\marginparsep   7.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 30.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count139
+Package hyperref Info: Link coloring ON on input line 30.
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count140
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+
+(./ubuntu-manual.out) (./ubuntu-manual.out)
+\@outlinefile=\write4
+\openout4 = `ubuntu-manual.out'.
+
+\AtBeginShipoutBox=\box35
+
+ABD: EveryShipout initializing macros
+<cover.pdf, id=279, page=2, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 2>
+File: cover.pdf Graphic file (type pdf)
+
+<use cover.pdf, page 2>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 2>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 2>
+File: cover.pdf Graphic file (type pdf)
+
+<use cover.pdf, page 2> [1
+
+ <./cover.pdf>]
+<cover.pdf, id=293, page=1, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+File: cover.pdf Graphic file (type pdf)
+
+<use cover.pdf, page 1>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+File: cover.pdf Graphic file (type pdf)
+ <use cover.pdf, page 1>
+File: cover.pdf Graphic file (type pdf)
+
+<use cover.pdf, page 1> [2 <./cover.pdf>] (./tex/title.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \end{titlepage}
+                     [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])pdfTeX warning (ext4): des
+tination with the same identifier (name{page.1}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.46 \chapter
+             *{Preface} [1] (./tex/preface.tex
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 5.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.50 \tableofcontents
+                      [1
+
+] (./ubuntu-manual.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 ...sentations, Spreadsheets}{55}{section.9.3}
+                                                   [2
+
+])
+\tf@toc=\write5
+\openout5 = `ubuntu-manual.toc'.
+
+ [3]
+Chapter 1.
+(./tex/ubuntu-users.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+<./images/ubuntu10-04.png, id=399, 1284.8pt x 770.88pt>
+File: ./images/ubuntu10-04.png Graphic file (type png)
+
+<use ./images/ubuntu10-04.png>
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+[4
+
+
+ <./images/ubuntu10-04.png (PNG copy)>]
+<./images/ubuntu12-04.png, id=409, 1284.8pt x 803.0pt>
+File: ./images/ubuntu12-04.png Graphic file (type png)
+
+<use ./images/ubuntu12-04.png>) [5 <./images/ubuntu12-04.png (PNG copy)>]
+Chapter 2.
+(./tex/other-users.tex) [6
+
+] [7
+
+]
+Chapter 3.
+(./tex/about-ubuntu.tex
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+<./images/about-ubuntu/ubuntu-release-cycle.png, id=434, 578.16pt x 446.6286pt>
+File: ./images/about-ubuntu/ubuntu-release-cycle.png Graphic file (type png)
+<use ./images/about-ubuntu/ubuntu-release-cycle.png>
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+<./images/about-ubuntu/ubuntu-releases.png, id=436, 735.74875pt x 316.18124pt>
+File: ./images/about-ubuntu/ubuntu-releases.png Graphic file (type png)
+
+<use ./images/about-ubuntu/ubuntu-releases.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[9 <./images/about-ubuntu/ubuntu-release-cycle.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+) [10 <./images/about-ubuntu/ubuntu-releases.png>]
+Chapter 4.
+(./tex/obtain-ubuntu.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+<./images/obtain-ubuntu/direct-link.png, id=459, 961.5925pt x 329.23pt>
+File: ./images/obtain-ubuntu/direct-link.png Graphic file (type png)
+
+<use ./images/obtain-ubuntu/direct-link.png> [11
+
+ <./images/obtain-ubuntu/direct-link.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<./images/obtain-ubuntu/USB2.png, id=480, 1686.3pt x 1053.9375pt>
+File: ./images/obtain-ubuntu/USB2.png Graphic file (type png)
+
+<use ./images/obtain-ubuntu/USB2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+<./images/obtain-ubuntu/USB3.png, id=482, 471.7625pt x 573.14125pt>
+File: ./images/obtain-ubuntu/USB3.png Graphic file (type png)
+
+<use ./images/obtain-ubuntu/USB3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+<./images/obtain-ubuntu/USB4.png, id=483, 796.9775pt x 619.31375pt>
+File: ./images/obtain-ubuntu/USB4.png Graphic file (type png)
+
+<use ./images/obtain-ubuntu/USB4.png> [13 <./images/obtain-ubuntu/USB2.png (PNG
+ copy)> <./images/obtain-ubuntu/USB3.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+<./images/obtain-ubuntu/USB6.png, id=490, 471.7625pt x 573.14125pt>
+File: ./images/obtain-ubuntu/USB6.png Graphic file (type png)
+
+<use ./images/obtain-ubuntu/USB6.png>) [14 <./images/obtain-ubuntu/USB4.png (PN
+G copy)> <./images/obtain-ubuntu/USB6.png (PNG copy)>]
+Chapter 5.
+(./tex/installation.tex
+LaTeX Font Info:    Try loading font information for TS1+cmss on input line 11.
+
+ (/usr/share/texmf-texlive/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+[15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+<./images/installation/basic-start.png, id=509, 721.69624pt x 399.4925pt>
+File: ./images/installation/basic-start.png Graphic file (type png)
+
+<use ./images/installation/basic-start.png>
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+<./images/installation/install-live-start.png, id=511, 750.805pt x 541.02126pt>
+File: ./images/installation/install-live-start.png Graphic file (type png)
+<use ./images/installation/install-live-start.png> [16 <./images/installation/b
+asic-start.png> <./images/installation/install-live-start.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+<./images/installation/install-live1.png, id=521, 1030.85126pt x 772.8875pt>
+File: ./images/installation/install-live1.png Graphic file (type png)
+
+<use ./images/installation/install-live1.png> [17 <./images/installation/instal
+l-live1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+File: ./images/installation/basic-start.png Graphic file (type png)
+<use ./images/installation/basic-start.png>
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+<./images/installation/install-live-start2.png, id=529, 750.805pt x 541.02126pt
+>
+File: ./images/installation/install-live-start2.png Graphic file (type png)
+ <use ./images/installation/install-live-start2.png> [18 <./images/installation
+/install-live-start2.png>]
+<./images/installation/installer-prepare.png, id=537, 751.80875pt x 554.07pt>
+File: ./images/installation/installer-prepare.png Graphic file (type png)
+
+<use ./images/installation/installer-prepare.png>
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+<./images/installation/installer-os-options.png, id=538, 750.805pt x 468.75125p
+t>
+File: ./images/installation/installer-os-options.png Graphic file (type png)
+ <use ./images/installation/installer-os-options.png>
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+<./images/installation/installer-onlyubuntu.png, id=539, 750.805pt x 468.75125p
+t>
+File: ./images/installation/installer-onlyubuntu.png Graphic file (type png)
+ <use ./images/installation/installer-onlyubuntu.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <./images/installation/installer-prepare.png (PNG copy)> <./images/installa
+tion/installer-os-options.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<./images/installation/installer-keyboard.png, id=547, 752.8125pt x 538.01pt>
+File: ./images/installation/installer-keyboard.png Graphic file (type png)
+
+<use ./images/installation/installer-keyboard.png> [20 <./images/installation/i
+nstaller-onlyubuntu.png> <./images/installation/installer-keyboard.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+<./images/installation/installer-timezone.png, id=556, 752.8125pt x 536.0025pt>
+File: ./images/installation/installer-timezone.png Graphic file (type png)
+<use ./images/installation/installer-timezone.png>
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<./images/installation/installer-who.png, id=557, 755.82375pt x 538.01pt>
+File: ./images/installation/installer-who.png Graphic file (type png)
+
+<use ./images/installation/installer-who.png> [21 <./images/installation/instal
+ler-timezone.png> <./images/installation/installer-who.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+<./images/installation/virtualbox/virtualbox-main.png, id=568, 774.895pt x 581.
+17125pt>
+File: ./images/installation/virtualbox/virtualbox-main.png Graphic file (type p
+ng)
+ <use ./images/installation/virtualbox/virtualbox-main.png>
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+<./images/installation/virtualbox/wizard-newvirtual.png, id=570, 697.60625pt x 
+455.7025pt>
+File: ./images/installation/virtualbox/wizard-newvirtual.png Graphic file (type
+ png)
+ <use ./images/installation/virtualbox/wizard-newvirtual.png>
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+[22 <./images/installation/virtualbox/virtualbox-main.png (PNG copy)> <./images
+/installation/virtualbox/wizard-newvirtual.png (PNG copy)>]
+<./images/installation/virtualbox/wizard-memory.png, id=578, 697.60625pt x 455.
+7025pt>
+File: ./images/installation/virtualbox/wizard-memory.png Graphic file (type png
+)
+ <use ./images/installation/virtualbox/wizard-memory.png>
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+<./images/installation/virtualbox/wizard-newharddisk.png, id=580, 697.60625pt x
+ 455.7025pt>
+File: ./images/installation/virtualbox/wizard-newharddisk.png Graphic file (typ
+e png)
+ <use ./images/installation/virtualbox/wizard-newharddisk.png>
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+[23 <./images/installation/virtualbox/wizard-memory.png> <./images/installation
+/virtualbox/wizard-newharddisk.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+<./images/installation/virtualbox/wizard-VDI.png, id=590, 753.81625pt x 530.983
+75pt>
+File: ./images/installation/virtualbox/wizard-VDI.png Graphic file (type png)
+ <use ./images/installation/virtualbox/wizard-VDI.png>
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+<./images/installation/virtualbox/wizard-dynamicsize.png, id=592, 753.81625pt x
+ 530.98375pt>
+File: ./images/installation/virtualbox/wizard-dynamicsize.png Graphic file (typ
+e png)
+ <use ./images/installation/virtualbox/wizard-dynamicsize.png>
+[24 <./images/installation/virtualbox/wizard-VDI.png> <./images/installation/vi
+rtualbox/wizard-dynamicsize.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+<./images/installation/virtualbox/wizard-sizelocation.png, id=603, 753.81625pt 
+x 530.98375pt>
+File: ./images/installation/virtualbox/wizard-sizelocation.png Graphic file (ty
+pe png)
+ <use ./images/installation/virtualbox/wizard-sizelocation.png>
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+<./images/installation/virtualbox/Wizard-complete.png, id=604, 697.60625pt x 45
+5.7025pt>
+File: ./images/installation/virtualbox/Wizard-complete.png Graphic file (type p
+ng)
+ <use ./images/installation/virtualbox/Wizard-complete.png> [25 <./images/insta
+llation/virtualbox/wizard-sizelocation.png> <./images/installation/virtualbox/W
+izard-complete.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+<./images/installation/virtualbox/wizard-final.png, id=614, 774.895pt x 581.171
+25pt>
+File: ./images/installation/virtualbox/wizard-final.png Graphic file (type png)
+
+ <use ./images/installation/virtualbox/wizard-final.png>
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+<./images/installation/virtualbox/settings-display.png, id=616, 671.50874pt x 5
+86.19pt>
+File: ./images/installation/virtualbox/settings-display.png Graphic file (type 
+png)
+ <use ./images/installation/virtualbox/settings-display.png>
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+<./images/installation/virtualbox/settings-storage.png, id=618, 671.50874pt x 5
+86.19pt>
+File: ./images/installation/virtualbox/settings-storage.png Graphic file (type 
+png)
+ <use ./images/installation/virtualbox/settings-storage.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
+
+ []
+
+[26 <./images/installation/virtualbox/wizard-final.png (PNG copy)> <./images/in
+stallation/virtualbox/settings-display.png (PNG copy)>]) [27 <./images/installa
+tion/virtualbox/settings-storage.png (PNG copy)>] [28
+
+]
+Chapter 6.
+(./tex/desktop.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+<./images/desktop/desktop.png, id=637, 1284.8pt x 803.0pt>
+File: ./images/desktop/desktop.png Graphic file (type png)
+
+<use ./images/desktop/desktop.png>
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[29
+
+ <./images/desktop/desktop.png>]
+<./images/desktop/applications.png, id=645, 65.24374pt x 239.89626pt>
+File: ./images/desktop/applications.png Graphic file (type png)
+
+<use ./images/desktop/applications.png>
+<./images/desktop/move-applications.png, id=646, 71.26625pt x 180.675pt>
+File: ./images/desktop/move-applications.png Graphic file (type png)
+
+<use ./images/desktop/move-applications.png>
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<./images/desktop/update-number.png, id=650, 48.18pt x 48.18pt>
+File: ./images/desktop/update-number.png Graphic file (type png)
+
+<use ./images/desktop/update-number.png>
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+<./images/desktop/dash.png, id=653, 1284.8pt x 803.0pt>
+File: ./images/desktop/dash.png Graphic file (type png)
+
+<use ./images/desktop/dash.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[30 <./images/desktop/applications.png (PNG copy)> <./images/desktop/move-appli
+cations.png (PNG copy)> <./images/desktop/update-number.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 64--65
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 73--74
+[] 
+ []
+
+<./images/desktop/indicators.png, id=668, 373.395pt x 24.09pt>
+File: ./images/desktop/indicators.png Graphic file (type png)
+
+<use ./images/desktop/indicators.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <./images/desktop/dash.png>]
+<./images/desktop/sound-menu.png, id=676, 226.8475pt x 338.26375pt>
+File: ./images/desktop/sound-menu.png Graphic file (type png)
+
+<use ./images/desktop/sound-menu.png>
+<./images/desktop/messaging-menu.png, id=677, 153.57375pt x 278.03876pt>
+File: ./images/desktop/messaging-menu.png Graphic file (type png)
+
+<use ./images/desktop/messaging-menu.png>
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+<./images/desktop/HUD-firefox.png, id=679, 1284.8pt x 803.0pt>
+File: ./images/desktop/HUD-firefox.png Graphic file (type png)
+
+<use ./images/desktop/HUD-firefox.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [32 <./images/desktop/indicators.png (PNG copy)> <./images/desktop/sound-menu
+.png (PNG copy)> <./images/desktop/messaging-menu.png (PNG copy)>] [33 <./image
+s/desktop/HUD-firefox.png (PNG copy)>]
+Chapter 7.
+(./tex/applications.tex
+<./images/applications/USC.png, id=697, 1141.26375pt x 785.93625pt>
+File: ./images/applications/USC.png Graphic file (type png)
+
+<use ./images/applications/USC.png>
+<./images/applications/usc-icon.png, id=700, 53.19875pt x 50.1875pt>
+File: ./images/applications/usc-icon.png Graphic file (type png)
+
+<use ./images/applications/usc-icon.png>
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+[34
+
+ <./images/applications/USC.png (PNG copy)> <./images/applications/usc-icon.png
+ (PNG copy)>]
+<./images/applications/vlc-search.png, id=709, 973.6375pt x 713.66624pt>
+File: ./images/applications/vlc-search.png Graphic file (type png)
+
+<use ./images/applications/vlc-search.png>
+<./images/applications/vlc-info.png, id=711, 991.705pt x 759.83875pt>
+File: ./images/applications/vlc-info.png Graphic file (type png)
+
+<use ./images/applications/vlc-info.png>
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[35 <./images/applications/vlc-search.png (PNG copy)> <./images/applications/vl
+c-info.png>]
+<./images/applications/vlc-install.png, id=720, 991.705pt x 264.99pt>
+File: ./images/applications/vlc-install.png Graphic file (type png)
+
+<use ./images/applications/vlc-install.png>
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 54--55
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<./images/applications/uninstall-apps.png, id=722, 991.705pt x 759.83875pt>
+File: ./images/applications/uninstall-apps.png Graphic file (type png)
+
+<use ./images/applications/uninstall-apps.png>
+<./images/applications/uninstall-vlc.png, id=727, 991.705pt x 258.9675pt>
+File: ./images/applications/uninstall-vlc.png Graphic file (type png)
+
+<use ./images/applications/uninstall-vlc.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[36 <./images/applications/vlc-install.png> <./images/applications/uninstall-ap
+ps.png (PNG copy)>]
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 78--79
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+<./images/applications/chrome-download.png, id=738, 648.4225pt x 571.13374pt>
+File: ./images/applications/chrome-download.png Graphic file (type png)
+
+<use ./images/applications/chrome-download.png>
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+<./images/applications/debfile-icon.png, id=740, 143.53625pt x 108.405pt>
+File: ./images/applications/debfile-icon.png Graphic file (type png)
+
+<use ./images/applications/debfile-icon.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 100--101
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+[37 <./images/applications/uninstall-vlc.png (PNG copy)> <./images/applications
+/chrome-download.png (PNG copy)>]
+<./images/applications/software-sources-menu.png, id=749, 1280.785pt x 361.35pt
+>
+File: ./images/applications/software-sources-menu.png Graphic file (type png)
+ <use ./images/applications/software-sources-menu.png>
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+<./images/applications/software-source.png, id=751, 570.13pt x 451.6875pt>
+File: ./images/applications/software-source.png Graphic file (type png)
+
+<use ./images/applications/software-source.png>
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+<./images/applications/software-source-ppa.png, id=753, 570.13pt x 451.6875pt>
+File: ./images/applications/software-source-ppa.png Graphic file (type png)
+
+<use ./images/applications/software-source-ppa.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+[38 <./images/applications/debfile-icon.png> <./images/applications/software-so
+urces-menu.png> <./images/applications/software-source.png (PNG copy)>]
+<./images/applications/software-source-ppa-add.png, id=764, 644.4075pt x 234.87
+75pt>
+File: ./images/applications/software-source-ppa-add.png Graphic file (type png)
+
+ <use ./images/applications/software-source-ppa-add.png>
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+<./images/applications/software-source-ppa-installapp.png, id=767, 991.705pt x 
+294.09875pt>
+File: ./images/applications/software-source-ppa-installapp.png Graphic file (ty
+pe png)
+ <use ./images/applications/software-source-ppa-installapp.png>
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 151--152
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[39 <./images/applications/software-source-ppa.png (PNG copy)> <./images/applic
+ations/software-source-ppa-add.png> <./images/applications/software-source-ppa-
+installapp.png (PNG copy)>]
+<./images/applications/update-manager.png, id=777, 604.2575pt x 701.62125pt>
+File: ./images/applications/update-manager.png Graphic file (type png)
+
+<use ./images/applications/update-manager.png>
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<./images/applications/update-preferences.png, id=781, 570.13pt x 451.6875pt>
+File: ./images/applications/update-preferences.png Graphic file (type png)
+
+<use ./images/applications/update-preferences.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [40 <./images/applications/update-manager.png (PNG copy)>] [41 <./images/appl
+ications/update-preferences.png (PNG copy)>]
+Chapter 8.
+(./tex/terminal-basics.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+<./images/terminal/open-terminal.png, id=796, 1284.8pt x 803.0pt>
+File: ./images/terminal/open-terminal.png Graphic file (type png)
+
+<use ./images/terminal/open-terminal.png>
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<./images/terminal/terminal-window.png, id=798, 724.7075pt x 421.575pt>
+File: ./images/terminal/terminal-window.png Graphic file (type png)
+
+<use ./images/terminal/terminal-window.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 24--25
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[42
+
+ <./images/terminal/open-terminal.png (PNG copy)>]
+<./images/terminal/pwd-command.png, id=806, 643.40375pt x 74.2775pt>
+File: ./images/terminal/pwd-command.png Graphic file (type png)
+
+<use ./images/terminal/pwd-command.png>
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+<./images/terminal/ls-command.png, id=808, 644.4075pt x 292.09125pt>
+File: ./images/terminal/ls-command.png Graphic file (type png)
+
+<use ./images/terminal/ls-command.png>
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+[43 <./images/terminal/terminal-window.png (PNG copy)> <./images/terminal/pwd-c
+ommand.png (PNG copy)> <./images/terminal/ls-command.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+<./images/terminal/sudo1.png, id=817, 641.39626pt x 92.345pt>
+File: ./images/terminal/sudo1.png Graphic file (type png)
+
+<use ./images/terminal/sudo1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+<./images/terminal/sudo2.png, id=819, 647.41875pt x 53.19875pt>
+File: ./images/terminal/sudo2.png Graphic file (type png)
+
+<use ./images/terminal/sudo2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<./images/terminal/sudo3.png, id=821, 637.38126pt x 302.12875pt>
+File: ./images/terminal/sudo3.png Graphic file (type png)
+
+<use ./images/terminal/sudo3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+[44 <./images/terminal/sudo1.png (PNG copy)> <./images/terminal/sudo2.png (PNG 
+copy)> <./images/terminal/sudo3.png (PNG copy)>]
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 88--89
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+<./images/terminal/mkdir1.png, id=830, 645.41125pt x 43.16125pt>
+File: ./images/terminal/mkdir1.png Graphic file (type png)
+
+<use ./images/terminal/mkdir1.png>
+<./images/terminal/mkdir2.png, id=831, 639.38875pt x 35.13126pt>
+File: ./images/terminal/mkdir2.png Graphic file (type png)
+
+<use ./images/terminal/mkdir2.png>
+<./images/terminal/rmdir1.png, id=832, 642.4pt x 35.13126pt>
+File: ./images/terminal/rmdir1.png Graphic file (type png)
+
+<use ./images/terminal/rmdir1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<./images/terminal/mkdir4.png, id=834, 644.4075pt x 52.195pt>
+File: ./images/terminal/mkdir4.png Graphic file (type png)
+
+<use ./images/terminal/mkdir4.png>
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 128--129
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<./images/terminal/mkdir5.png, id=835, 645.41125pt x 34.1275pt>
+File: ./images/terminal/mkdir5.png Graphic file (type png)
+
+<use ./images/terminal/mkdir5.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+<./images/terminal/mkdir6.png, id=836, 652.4375pt x 282.05376pt>
+File: ./images/terminal/mkdir6.png Graphic file (type png)
+
+<use ./images/terminal/mkdir6.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+[45 <./images/terminal/mkdir1.png (PNG copy)> <./images/terminal/mkdir2.png (PN
+G copy)> <./images/terminal/rmdir1.png (PNG copy)> <./images/terminal/mkdir4.pn
+g (PNG copy)>]
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 150--151
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+<./images/terminal/rm1.png, id=847, 641.39626pt x 56.21pt>
+File: ./images/terminal/rm1.png Graphic file (type png)
+
+<use ./images/terminal/rm1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+<./images/terminal/cp1.png, id=849, 643.40375pt x 124.465pt>
+File: ./images/terminal/cp1.png Graphic file (type png)
+
+<use ./images/terminal/cp1.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 181--182
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+[46 <./images/terminal/mkdir5.png (PNG copy)> <./images/terminal/mkdir6.png (PN
+G copy)> <./images/terminal/rm1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+<./images/terminal/mv1.png, id=860, 645.41125pt x 88.33pt>
+File: ./images/terminal/mv1.png Graphic file (type png)
+
+<use ./images/terminal/mv1.png>
+<./images/terminal/cp2.png, id=862, 645.41125pt x 88.33pt>
+File: ./images/terminal/cp2.png Graphic file (type png)
+
+<use ./images/terminal/cp2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 210--211
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<./images/terminal/mv2.png, id=864, 648.4225pt x 89.33376pt>
+File: ./images/terminal/mv2.png Graphic file (type png)
+
+<use ./images/terminal/mv2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+[47 <./images/terminal/cp1.png (PNG copy)> <./images/terminal/mv1.png (PNG copy
+)> <./images/terminal/cp2.png (PNG copy)> <./images/terminal/mv2.png (PNG copy)
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+<./images/terminal/mv3.png, id=873, 644.4075pt x 322.20375pt>
+File: ./images/terminal/mv3.png Graphic file (type png)
+
+<use ./images/terminal/mv3.png>
+<./images/terminal/bugreport1.png, id=876, 528.97626pt x 58.2175pt>
+File: ./images/terminal/bugreport1.png Graphic file (type png)
+
+<use ./images/terminal/bugreport1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
+
+[48 <./images/terminal/mv3.png (PNG copy)> <./images/terminal/bugreport1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+<./images/terminal/dist-upgrade.png, id=885, 644.4075pt x 347.2975pt>
+File: ./images/terminal/dist-upgrade.png Graphic file (type png)
+
+<use ./images/terminal/dist-upgrade.png>
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+[49 <./images/terminal/dist-upgrade.png (PNG copy)>]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <7> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 274.
+
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <5> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 274.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+<./images/terminal/install-skype.png, id=892, 631.35875pt x 186.6975pt>
+File: ./images/terminal/install-skype.png Graphic file (type png)
+
+<use ./images/terminal/install-skype.png>
+Underfull \hbox (badness 10000) in paragraph at lines 285--287
+
+ []
+
+<./images/terminal/uninstall-skype.png, id=894, 644.4075pt x 162.6075pt>
+File: ./images/terminal/uninstall-skype.png Graphic file (type png)
+
+<use ./images/terminal/uninstall-skype.png>
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+<./images/terminal/autoremove.png, id=896, 644.4075pt x 120.45pt>
+File: ./images/terminal/autoremove.png Graphic file (type png)
+
+<use ./images/terminal/autoremove.png>
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+) [50 <./images/terminal/install-skype.png (PNG copy)> <./images/terminal/unins
+tall-skype.png (PNG copy)> <./images/terminal/autoremove.png (PNG copy)>]
+[51]
+Chapter 9.
+(./tex/basic-tasks.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+<./images/basic-tasks/gwibber1.png, id=909, 1027.84pt x 602.25pt>
+File: ./images/basic-tasks/gwibber1.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+<./images/basic-tasks/gwibber2.png, id=911, 644.4075pt x 430.60875pt>
+File: ./images/basic-tasks/gwibber2.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52
+
+ <./images/basic-tasks/gwibber1.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<./images/basic-tasks/gwibber3.png, id=922, 492.84125pt x 335.2525pt>
+File: ./images/basic-tasks/gwibber3.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<./images/basic-tasks/gwibber4.png, id=925, 582.175pt x 471.7625pt>
+File: ./images/basic-tasks/gwibber4.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber4.png>
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[53 <./images/basic-tasks/gwibber2.png (PNG copy)> <./images/basic-tasks/gwibbe
+r3.png (PNG copy)> <./images/basic-tasks/gwibber4.png (PNG copy)>]
+<./images/basic-tasks/gwibber5.png, id=933, 503.8825pt x 614.295pt>
+File: ./images/basic-tasks/gwibber5.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber5.png>
+<./images/basic-tasks/gwibber6.png, id=934, 489.83pt x 461.725pt>
+File: ./images/basic-tasks/gwibber6.png Graphic file (type png)
+
+<use ./images/basic-tasks/gwibber6.png>
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+<./images/basic-tasks/play-music1.png, id=936, 375.4025pt x 244.915pt>
+File: ./images/basic-tasks/play-music1.png Graphic file (type png)
+
+<use ./images/basic-tasks/play-music1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+<./images/basic-tasks/play-music2.png, id=938, 914.41624pt x 632.3625pt>
+File: ./images/basic-tasks/play-music2.png Graphic file (type png)
+
+<use ./images/basic-tasks/play-music2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[54 <./images/basic-tasks/gwibber5.png (PNG copy)> <./images/basic-tasks/gwibbe
+r6.png (PNG copy)> <./images/basic-tasks/play-music1.png (PNG copy)>]
+<./images/basic-tasks/play-music3.png, id=948, 373.395pt x 328.22626pt>
+File: ./images/basic-tasks/play-music3.png Graphic file (type png)
+
+<use ./images/basic-tasks/play-music3.png>
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 107--108
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+<./images/basic-tasks/document-icon.png, id=950, 57.21375pt x 59.22125pt>
+File: ./images/basic-tasks/document-icon.png Graphic file (type png)
+
+<use ./images/basic-tasks/document-icon.png>
+<./images/basic-tasks/spreadsheet-icon.png, id=951, 59.22125pt x 59.22125pt>
+File: ./images/basic-tasks/spreadsheet-icon.png Graphic file (type png)
+
+<use ./images/basic-tasks/spreadsheet-icon.png>
+<./images/basic-tasks/presentation-icon.png, id=952, 59.22125pt x 60.225pt>
+File: ./images/basic-tasks/presentation-icon.png Graphic file (type png)
+
+<use ./images/basic-tasks/presentation-icon.png>
+<./images/basic-tasks/edit-office.png, id=954, 1284.8pt x 803.0pt>
+File: ./images/basic-tasks/edit-office.png Graphic file (type png)
+
+<use ./images/basic-tasks/edit-office.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+[55 <./images/basic-tasks/play-music2.png> <./images/basic-tasks/play-music3.pn
+g (PNG copy)>]
+<./images/basic-tasks/internet1.png, id=963, 301.125pt x 155.58125pt>
+File: ./images/basic-tasks/internet1.png Graphic file (type png)
+
+<use ./images/basic-tasks/internet1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<./images/basic-tasks/internet2.png, id=966, 299.1175pt x 157.58875pt>
+File: ./images/basic-tasks/internet2.png Graphic file (type png)
+
+<use ./images/basic-tasks/internet2.png>
+<./images/basic-tasks/internet3.png, id=967, 487.8225pt x 330.23375pt>
+File: ./images/basic-tasks/internet3.png Graphic file (type png)
+
+<use ./images/basic-tasks/internet3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[56 <./images/basic-tasks/document-icon.png (PNG copy)> <./images/basic-tasks/s
+preadsheet-icon.png (PNG copy)> <./images/basic-tasks/presentation-icon.png (PN
+G copy)> <./images/basic-tasks/edit-office.png (PNG copy)> <./images/basic-task
+s/internet1.png (PNG copy)>]
+<./images/basic-tasks/internet4.png, id=983, 463.7325pt x 487.8225pt>
+File: ./images/basic-tasks/internet4.png Graphic file (type png)
+
+<use ./images/basic-tasks/internet4.png>
+<./images/basic-tasks/internet6.png, id=984, 303.1325pt x 314.17375pt>
+File: ./images/basic-tasks/internet6.png Graphic file (type png)
+
+<use ./images/basic-tasks/internet6.png>
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+<./images/basic-tasks/print1.png, id=987, 1228.59pt x 793.96625pt>
+File: ./images/basic-tasks/print1.png Graphic file (type png)
+
+<use ./images/basic-tasks/print1.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+<./images/basic-tasks/print2.png, id=989, 772.8875pt x 481.8pt>
+File: ./images/basic-tasks/print2.png Graphic file (type png)
+
+<use ./images/basic-tasks/print2.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[57 <./images/basic-tasks/internet2.png (PNG copy)> <./images/basic-tasks/inter
+net3.png (PNG copy)> <./images/basic-tasks/internet4.png (PNG copy)> <./images/
+basic-tasks/internet6.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+<./images/basic-tasks/thunderbird1.png, id=1003, 285.065pt x 293.095pt>
+File: ./images/basic-tasks/thunderbird1.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird1.png>
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+[58 <./images/basic-tasks/print1.png (PNG copy)> <./images/basic-tasks/print2.p
+ng> <./images/basic-tasks/thunderbird1.png (PNG copy)>]
+<./images/basic-tasks/thunderbird2.png, id=1011, 614.295pt x 437.635pt>
+File: ./images/basic-tasks/thunderbird2.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+
+ []
+
+<./images/basic-tasks/thunderbird3.png, id=1013, 614.295pt x 437.635pt>
+File: ./images/basic-tasks/thunderbird3.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+<./images/basic-tasks/thunderbird4.png, id=1015, 419.5675pt x 202.7575pt>
+File: ./images/basic-tasks/thunderbird4.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird4.png>
+<./images/basic-tasks/thunderbird5.png, id=1018, 502.87875pt x 147.55125pt>
+File: ./images/basic-tasks/thunderbird5.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird5.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/basic-tasks/thunderbird6.png, id=1019, 962.59625pt x 578.16pt>
+File: ./images/basic-tasks/thunderbird6.png Graphic file (type png)
+
+<use ./images/basic-tasks/thunderbird6.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+[59 <./images/basic-tasks/thunderbird2.png (PNG copy)> <./images/basic-tasks/th
+underbird3.png (PNG copy)> <./images/basic-tasks/thunderbird4.png (PNG copy)>]
+<./images/basic-tasks/firefox2.png, id=1030, 1027.84pt x 602.25pt>
+File: ./images/basic-tasks/firefox2.png Graphic file (type png)
+
+<use ./images/basic-tasks/firefox2.png> [60 <./images/basic-tasks/thunderbird5.
+png (PNG copy)> <./images/basic-tasks/thunderbird6.png (PNG copy)> <./images/ba
+sic-tasks/firefox2.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+<./images/basic-tasks/share1.png, id=1038, 48.18pt x 46.1725pt>
+File: ./images/basic-tasks/share1.png Graphic file (type png)
+
+<use ./images/basic-tasks/share1.png>
+<./images/basic-tasks/share2.png, id=1040, 748.7975pt x 484.81125pt>
+File: ./images/basic-tasks/share2.png Graphic file (type png)
+
+<use ./images/basic-tasks/share2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
+
+ []
+
+[61 <./images/basic-tasks/share1.png (PNG copy)> <./images/basic-tasks/share2.p
+ng>] <./images/basic-tasks/share3.png, id=1049, 740.7675pt x 556.0775pt>
+File: ./images/basic-tasks/share3.png Graphic file (type png)
+
+<use ./images/basic-tasks/share3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+<./images/basic-tasks/share4.png, id=1051, 644.4075pt x 556.0775pt>
+File: ./images/basic-tasks/share4.png Graphic file (type png)
+
+<use ./images/basic-tasks/share4.png> [62 <./images/basic-tasks/share3.png> <./
+images/basic-tasks/share4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+<./images/basic-tasks/share8.png, id=1060, 740.7675pt x 556.0775pt>
+File: ./images/basic-tasks/share8.png Graphic file (type png)
+
+<use ./images/basic-tasks/share8.png>
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+<./images/basic-tasks/share9.png, id=1061, 740.7675pt x 556.0775pt>
+File: ./images/basic-tasks/share9.png Graphic file (type png)
+
+<use ./images/basic-tasks/share9.png> [63 <./images/basic-tasks/share8.png> <./
+images/basic-tasks/share9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+<./images/basic-tasks/share5.png, id=1074, 644.4075pt x 556.0775pt>
+File: ./images/basic-tasks/share5.png Graphic file (type png)
+
+<use ./images/basic-tasks/share5.png>
+<./images/basic-tasks/share7.png, id=1075, 644.4075pt x 556.0775pt>
+File: ./images/basic-tasks/share7.png Graphic file (type png)
+
+<use ./images/basic-tasks/share7.png> [64 <./images/basic-tasks/share5.png> <./
+images/basic-tasks/share7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+<./images/basic-tasks/share10.png, id=1085, 740.7675pt x 556.0775pt>
+File: ./images/basic-tasks/share10.png Graphic file (type png)
+
+<use ./images/basic-tasks/share10.png>
+<./images/basic-tasks/updating_emblem.png, id=1087, 50.1875pt x 50.1875pt>
+File: ./images/basic-tasks/updating_emblem.png Graphic file (type png)
+
+<use ./images/basic-tasks/updating_emblem.png>
+<./images/basic-tasks/synced_emblem.png, id=1088, 50.1875pt x 50.1875pt>
+File: ./images/basic-tasks/synced_emblem.png Graphic file (type png)
+
+<use ./images/basic-tasks/synced_emblem.png>
+<./images/basic-tasks/unsynced_emblem.png, id=1089, 50.1875pt x 50.1875pt>
+File: ./images/basic-tasks/unsynced_emblem.png Graphic file (type png)
+
+<use ./images/basic-tasks/unsynced_emblem.png>
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+<./images/basic-tasks/publish.png, id=1091, 862.22125pt x 583.17876pt>
+File: ./images/basic-tasks/publish.png Graphic file (type png)
+
+<use ./images/basic-tasks/publish.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 396--397
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+<./images/basic-tasks/share-folder.png, id=1094, 1135.24126pt x 521.95pt>
+File: ./images/basic-tasks/share-folder.png Graphic file (type png)
+
+<use ./images/basic-tasks/share-folder.png> [65 <./images/basic-tasks/share10.p
+ng> <./images/basic-tasks/updating_emblem.png (PNG copy)> <./images/basic-tasks
+/synced_emblem.png (PNG copy)> <./images/basic-tasks/unsynced_emblem.png (PNG c
+opy)>]
+<./images/basic-tasks/share-folder2.png, id=1109, 385.44pt x 203.76125pt>
+File: ./images/basic-tasks/share-folder2.png Graphic file (type png)
+
+<use ./images/basic-tasks/share-folder2.png>
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+[66 <./images/basic-tasks/publish.png (PNG copy)> <./images/basic-tasks/share-f
+older.png> <./images/basic-tasks/share-folder2.png>]
+<./images/basic-tasks/play-games1.png, id=1119, 1284.8pt x 803.0pt>
+File: ./images/basic-tasks/play-games1.png Graphic file (type png)
+
+<use ./images/basic-tasks/play-games1.png>) [67 <./images/basic-tasks/play-game
+s1.png (PNG copy)>]
+Chapter 10.
+(./tex/advanced-topics.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+<./images/advanced-topics/gnomeshell1.png, id=1127, 991.705pt x 759.83875pt>
+File: ./images/advanced-topics/gnomeshell1.png Graphic file (type png)
+
+<use ./images/advanced-topics/gnomeshell1.png> [68
+
+ <./images/advanced-topics/gnomeshell1.png>]
+<./images/advanced-topics/gnomeshell2.png, id=1136, 726.715pt x 464.73625pt>
+File: ./images/advanced-topics/gnomeshell2.png Graphic file (type png)
+
+<use ./images/advanced-topics/gnomeshell2.png>) [69 <./images/advanced-topics/g
+nomeshell2.png>]
+Chapter 11.
+(./tex/working-ubuntu.tex
+<./images/work-ubuntu/workspace-icon.png, id=1146, 64.24pt x 63.23625pt>
+File: ./images/work-ubuntu/workspace-icon.png Graphic file (type png)
+
+<use ./images/work-ubuntu/workspace-icon.png>
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 17--18
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+<./images/work-ubuntu/workspaces.png, id=1149, 1284.8pt x 803.0pt>
+File: ./images/work-ubuntu/workspaces.png Graphic file (type png)
+
+<use ./images/work-ubuntu/workspaces.png>
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[70
+
+ <./images/work-ubuntu/workspace-icon.png (PNG copy)>]
+<./images/work-ubuntu/alt-tab.png, id=1159, 1284.8pt x 803.0pt>
+File: ./images/work-ubuntu/alt-tab.png Graphic file (type png)
+
+<use ./images/work-ubuntu/alt-tab.png>
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<./images/work-ubuntu/alt-grave.png, id=1161, 1284.8pt x 803.0pt>
+File: ./images/work-ubuntu/alt-grave.png Graphic file (type png)
+
+<use ./images/work-ubuntu/alt-grave.png>
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[71 <./images/work-ubuntu/workspaces.png (PNG copy)> <./images/work-ubuntu/alt-
+tab.png>] <./images/work-ubuntu/spread-view.png, id=1172, 1284.8pt x 803.0pt>
+File: ./images/work-ubuntu/spread-view.png Graphic file (type png)
+
+<use ./images/work-ubuntu/spread-view.png>
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[72 <./images/work-ubuntu/alt-grave.png (PNG copy)> <./images/work-ubuntu/sprea
+d-view.png>]
+<./images/work-ubuntu/number-overlay1.png, id=1181, 60.225pt x 59.22125pt>
+File: ./images/work-ubuntu/number-overlay1.png Graphic file (type png)
+
+<use ./images/work-ubuntu/number-overlay1.png>
+<./images/work-ubuntu/number-overlay2.png, id=1182, 58.2175pt x 59.22125pt>
+File: ./images/work-ubuntu/number-overlay2.png Graphic file (type png)
+
+<use ./images/work-ubuntu/number-overlay2.png>
+<./images/work-ubuntu/number-overlay3.png, id=1183, 59.22125pt x 58.2175pt>
+File: ./images/work-ubuntu/number-overlay3.png Graphic file (type png)
+
+<use ./images/work-ubuntu/number-overlay3.png>
+<./images/work-ubuntu/number-overlay4.png, id=1184, 60.225pt x 59.22125pt>
+File: ./images/work-ubuntu/number-overlay4.png Graphic file (type png)
+
+<use ./images/work-ubuntu/number-overlay4.png>
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 81--82
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+<./images/work-ubuntu/shortcut-overlay.png, id=1187, 943.525pt x 692.5875pt>
+File: ./images/work-ubuntu/shortcut-overlay.png Graphic file (type png)
+
+<use ./images/work-ubuntu/shortcut-overlay.png>) [73 <./images/work-ubuntu/numb
+er-overlay1.png (PNG copy)> <./images/work-ubuntu/number-overlay2.png (PNG copy
+)> <./images/work-ubuntu/number-overlay3.png (PNG copy)> <./images/work-ubuntu/
+number-overlay4.png (PNG copy)> <./images/work-ubuntu/shortcut-overlay.png (PNG
+ copy)>]
+Chapter 12.
+(./tex/customizing-ubuntu.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[74
+
+]
+<./images/customize-ubuntu/appearance-look.png, id=1209, 744.7825pt x 583.17876
+pt>
+File: ./images/customize-ubuntu/appearance-look.png Graphic file (type png)
+ <use ./images/customize-ubuntu/appearance-look.png>
+<./images/customize-ubuntu/appearance-behavior.png, id=1212, 744.7825pt x 560.0
+925pt>
+File: ./images/customize-ubuntu/appearance-behavior.png Graphic file (type png)
+
+ <use ./images/customize-ubuntu/appearance-behavior.png> [75 <./images/customiz
+e-ubuntu/appearance-look.png (PNG copy)> <./images/customize-ubuntu/appearance-
+behavior.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+<./images/customize-ubuntu/gcc.png, id=1224, 744.7825pt x 660.4675pt>
+File: ./images/customize-ubuntu/gcc.png Graphic file (type png)
+
+<use ./images/customize-ubuntu/gcc.png>
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+<./images/customize-ubuntu/privacy.png, id=1226, 744.7825pt x 560.0925pt>
+File: ./images/customize-ubuntu/privacy.png Graphic file (type png)
+
+<use ./images/customize-ubuntu/privacy.png>
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[76 <./images/customize-ubuntu/gcc.png> <./images/customize-ubuntu/privacy.png>
+]
+<./images/customize-ubuntu/privacy-files.png, id=1237, 744.7825pt x 560.0925pt>
+File: ./images/customize-ubuntu/privacy-files.png Graphic file (type png)
+<use ./images/customize-ubuntu/privacy-files.png>
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+<./images/customize-ubuntu/privacy-applications.png, id=1239, 744.7825pt x 560.
+0925pt>
+File: ./images/customize-ubuntu/privacy-applications.png Graphic file (type png
+)
+ <use ./images/customize-ubuntu/privacy-applications.png>) [77 <./images/custom
+ize-ubuntu/privacy-files.png> <./images/customize-ubuntu/privacy-applications.p
+ng>] [78
+
+]
+Chapter 13.
+(./tex/get-help.tex
+<./images/get-help/officialubuntuhelp.png, id=1252, 876.27374pt x 622.325pt>
+File: ./images/get-help/officialubuntuhelp.png Graphic file (type png)
+
+<use ./images/get-help/officialubuntuhelp.png> [79
+
+ <./images/get-help/officialubuntuhelp.png>]
+<./images/get-help/ubuntuforums.png, id=1261, 918.43124pt x 634.37pt>
+File: ./images/get-help/ubuntuforums.png Graphic file (type png)
+
+<use ./images/get-help/ubuntuforums.png>
+<./images/get-help/askubuntu.png, id=1263, 880.28876pt x 587.19376pt>
+File: ./images/get-help/askubuntu.png Graphic file (type png)
+
+<use ./images/get-help/askubuntu.png> [80 <./images/get-help/ubuntuforums.png> 
+<./images/get-help/askubuntu.png>]
+<./images/get-help/locoteams.png, id=1275, 952.55875pt x 674.52pt>
+File: ./images/get-help/locoteams.png Graphic file (type png)
+
+<use ./images/get-help/locoteams.png>) [81 <./images/get-help/locoteams.png>]
+[82
+
+]
+Chapter 14.
+(./tex/contributors.tex) [83
+
+] [84
+
+]
+Chapter 15.
+(./tex/appendixA.tex) [85
+
+]
+Chapter 16.
+(./tex/appendixB.tex
+Overfull \hbox (4.9114pt too wide) in paragraph at lines 5--53
+ [][] 
+ []
+
+) [86
+
+]
+Chapter 17.
+(./tex/appendixC.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+) (./ubuntu-manual.ind [87
+
+] [88
+
+])
+<./images/logo.jpg, id=1389, 569.12625pt x 552.0625pt>
+File: ./images/logo.jpg Graphic file (type jpg)
+ <use ./images/logo.jpg>
+[89
+
+ <./images/logo.jpg>] (./ubuntu-manual.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11291 strings out of 495061
+ 178955 string characters out of 1182621
+ 249673 words of memory out of 3000000
+ 13729 multiletter control sequences out of 15000+50000
+ 10807 words of font info for 40 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 44i,16n,45p,1308b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/krnekhelesh/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.600pk></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cms
+sbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ubuntu-manual.pdf (93 pages, 15448550 bytes).
+PDF statistics:
+ 1502 PDF objects out of 1728 (max. 8388607)
+ 353 named destinations out of 1000 (max. 500000)
+ 1300 words of extra memory for PDF output out of 10000 (max. 10000000)
+

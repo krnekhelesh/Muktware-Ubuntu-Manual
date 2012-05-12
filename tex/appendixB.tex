@@ -1,0 +1,56 @@
+%appendix B
+\index{Terminal commands}
+\begin{table}[h]
+	\centering
+	\begin{tabular}{|l|l|p{11cm}|}
+	\hline
+	\multicolumn{3}{|c|}{\textbf{Basic commands}} \\
+ 	\hline
+ 	cd & directory\_name & Navigate in/out of a  directory\\
+ 	& .. & cd with two dots enables you to go back one step. For example you are at /home/DIR1/DIR2. If you type cd .. you will be returned to DIR1. \\
+	& & cd without any arguments returns you straight back to the root directory (that is usually home directory). \\
+    \hline
+    clear & & Clear the terminal of all output \\
+    \hline
+    
+    cp & file directory & Copy files  to some directory \\
+    & -r  directory\_name & -r argument together with cp enables you to copy some directory to some other directory. \\
+	\hline
+	help & & Lists commands used under terminal \\
+	\hline
+	ls & & List all the visible files and folders that are under the current directory \\        
+ 	& -al & List all files and folders including hidden files\\
+ 	\hline
+ 	mkdir & directory\_name & Create a new directory \\
+ 	\hline
+ 	mv & file\_name directory & Enables you to move a file or a directory to some other directory. It works with same principle like cut command under GUI.  \\
+ 	\hline
+ 	man & command\_name & If you type man ls for example you will get a detailed explanation about ls command. This goes for any other command. Man is actually terminal's main help system. \\
+ 	\hline
+ 	pwd & & Display name of current/working directory \\
+	\hline
+	rm & file\_name & Removes only files \\
+	& -R  directory\_name & Command rm with -R enables you to erase entire directory together with its content. Command rm with -R enables you to erase entire directory together with its content. \\
+	\hline
+	rmdir & & With rmdir command you can erase only empty directories \\
+	\hline
+	sudo & & This command stands in front some other command which can be only executed by administrator or super user. When cruical operation is needed to be executed you have to use sudo. Otherwise it will not work. \\
+	
+	\hline
+	\multicolumn{3}{|c|}{\textbf{Administrative commands}} \\
+ 	\hline
+ 	sudo apt-get & install package\_name  & You can install a new package or a tool that you specify. \\
+ 	& update & Update your system's repository (database).  \\
+ 	& dist-upgrade & Download packages for your system from the recently updated repository. \\
+ 	& autoremove & Remove unwanted packages automatically.\\
+ 	& autoclean & Removes all .deb files for packages that are no longer installed on your system.\\
+ 	& clean & Removes all packages from the package cache. Note: autoclean,clean, autoremove help you to free up disk space from unnecessary packages.\\
+   \hline
+	
+	\hline
+	\end{tabular}
+	\label{tab:terminal-commands}
+	\caption{Terminal commands }
+\end{table}
+
+\par \noindent \textbf{Tip}: Use up arrow  on your keyboard. If you press up arrow on your keyboard you will not have to type some previously typed commands. Terminal actually remembers what you have typed recently. This is a time saviour. 

@@ -1,0 +1,150 @@
+\documentclass[10pt,a4paper,oneside,final,titlepage]{book}
+
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{subfig}
+\usepackage{wrapfig}
+\usepackage[numbered]{mcode}
+\usepackage{fancyhdr}
+\usepackage{rotating}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage{makeidx}
+\usepackage{color}
+\renewcommand{\familydefault}{\sfdefault}
+
+\hypersetup{
+    colorlinks=true,
+    pdfborder={0 0 0},
+}
+
+% Metadata
+\author{Muktware}
+\title{Ubuntu 12.04 LTS Manual}
+\makeindex
+\begin{document}
+
+\includepdf[pages=2]{cover.pdf}
+\includepdf[pages=1]{cover.pdf}
+\input{./tex/title}
+
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\pagestyle{fancy}
+	\fancyhf{}
+	\lhead{}
+	\rhead{}
+	\cfoot{\thepage}
+	\renewcommand{\headrulewidth}{0pt}
+
+\chapter*{Preface} 
+\input{./tex/preface}
+
+\setcounter{page}{1}
+\tableofcontents 
+\clearpage
+
+
+\pagestyle{fancy}
+	\fancyhf{}
+	\fancyheadoffset{0.3cm}
+	\lhead{\nouppercase \leftmark}
+	\rhead{Muktware Ubuntu Manual}
+	\cfoot{\thepage}
+	\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+	\renewcommand{\headrulewidth}{0pt}
+	\fancypagestyle{plain}{}
+
+%\chapter*{Conventions used in this book} 
+%\input{./tex/conventions}
+
+\chapter{Note to Ubuntu 10.04 LTS users}
+\input{./tex/ubuntu-users}
+
+\chapter{Note to Windows and Mac users} \label{chap:other-users}
+\input{./tex/other-users}
+
+\part{Preparing Ubuntu}
+
+\chapter{About Ubuntu} \label{sect:about-ubuntu}
+\input{./tex/about-ubuntu}
+
+\chapter{Obtaining Ubuntu} \label{sect:obtain_ubuntu}
+\input{./tex/obtain-ubuntu}
+
+\chapter{Installation} \label{chap:install}
+\input{./tex/installation}
+
+\part{Using Ubuntu}
+
+\chapter{The Unity desktop} \label{chap:unity}
+\input{./tex/desktop}
+
+\chapter{Software management} \label{chap:software_management}
+\input{./tex/applications}
+
+\chapter{Terminal basics} \label{chap:terminal}
+\input{./tex/terminal-basics}
+
+\chapter{Performing basic tasks}
+\input{./tex/basic-tasks}
+
+\chapter{Advanced Topics}
+\input{./tex/advanced-topics}
+
+\chapter{Working effectively using Ubuntu}
+\input{./tex/working-ubuntu}
+
+\chapter{Customising Ubuntu} \label{chap:customise-ubuntu} \index{Customisation}
+\input{./tex/customizing-ubuntu}
+
+%\chapter{Comparison between Ubuntu 10.04 and 12.04}
+
+\part{Getting Help}
+
+\chapter{What to do if you are stuck?}
+\input{./tex/get-help}
+
+\part{End Credits}
+
+\chapter{Contributors}
+\input{./tex/contributors}
+
+
+\thispagestyle{empty}
+\mbox{}
+\pagestyle{fancy}
+	\fancyhf{}
+	\lhead{}
+	\rhead{}
+	\cfoot{\thepage}
+	\renewcommand{\headrulewidth}{0pt}
+\part{Appendix}
+
+\chapter{Appendix A - Keyboard shortcuts}
+\input{./tex/appendixA}
+
+\chapter{Appendix B - Terminal commands}
+\input{./tex/appendixB}
+
+\chapter{Appendix C - Keyboard keys to access the BIOS}
+\input{./tex/appendixC}
+
+\printindex
+
+\newpage
+
+\begin{figure}[h!]	
+	\vspace{10cm}
+	\centering
+	\includegraphics[width=100pt]{./images/logo.jpg}
+	\label{fig:logo}	
+\end{figure}
+
+\end{document}

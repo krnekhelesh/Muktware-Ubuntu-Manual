@@ -1,0 +1,68 @@
+\BOOKMARK [0][-]{chapter.1}{Note to Ubuntu 10.04 LTS users}{}
+\BOOKMARK [0][-]{chapter.2}{Note to Windows and Mac users}{}
+\BOOKMARK [-1][-]{part.1}{I Preparing Ubuntu}{}
+\BOOKMARK [0][-]{chapter.3}{About Ubuntu}{part.1}
+\BOOKMARK [1][-]{section.3.1}{Why Ubuntu?}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Who is behind Ubuntu?}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Ubuntu Releases}{chapter.3}
+\BOOKMARK [1][-]{section.3.4}{Contributing to Ubuntu}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Obtaining Ubuntu}{part.1}
+\BOOKMARK [1][-]{section.4.1}{Downloading Ubuntu}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Burning Ubuntu to CD}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Create a bootable USB disk}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Installation}{part.1}
+\BOOKMARK [1][-]{section.5.1}{Prerequisite Steps}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Trying out Ubuntu Live}{chapter.5}
+\BOOKMARK [1][-]{section.5.3}{Ubuntu as the only OS on the disk}{chapter.5}
+\BOOKMARK [1][-]{section.5.4}{Ubuntu on a virtual machine}{chapter.5}
+\BOOKMARK [-1][-]{part.2}{II Using Ubuntu}{}
+\BOOKMARK [0][-]{chapter.6}{The Unity desktop}{part.2}
+\BOOKMARK [1][-]{section.6.1}{Launcher}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{Dash}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Lenses \046 Scopes}{chapter.6}
+\BOOKMARK [1][-]{section.6.4}{Top Panel and Indicators}{chapter.6}
+\BOOKMARK [1][-]{section.6.5}{Heads Up Display - HUD}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Software management}{part.2}
+\BOOKMARK [1][-]{section.7.1}{Ubuntu Software Center}{chapter.7}
+\BOOKMARK [1][-]{section.7.2}{Installing Application \(via Ubuntu Software Center\)}{chapter.7}
+\BOOKMARK [1][-]{section.7.3}{Uninstalling Applications \(via Ubuntu Software Center\)}{chapter.7}
+\BOOKMARK [1][-]{section.7.4}{Installation Applications \(via other sources\)}{chapter.7}
+\BOOKMARK [1][-]{section.7.5}{Updates and Upgrades}{chapter.7}
+\BOOKMARK [0][-]{chapter.8}{Terminal basics}{part.2}
+\BOOKMARK [1][-]{section.8.1}{SUDO command}{chapter.8}
+\BOOKMARK [1][-]{section.8.2}{Creating/Removing directories and files}{chapter.8}
+\BOOKMARK [1][-]{section.8.3}{Moving/Coping directories and files}{chapter.8}
+\BOOKMARK [1][-]{section.8.4}{Submitting bug reports}{chapter.8}
+\BOOKMARK [1][-]{section.8.5}{Installing/Uninstalling packages}{chapter.8}
+\BOOKMARK [0][-]{chapter.9}{Performing basic tasks}{part.2}
+\BOOKMARK [1][-]{section.9.1}{Microblogging}{chapter.9}
+\BOOKMARK [1][-]{section.9.2}{Listening to music}{chapter.9}
+\BOOKMARK [1][-]{section.9.3}{Editing Documents, Presentations, Spreadsheets}{chapter.9}
+\BOOKMARK [1][-]{section.9.4}{Setting up the internet}{chapter.9}
+\BOOKMARK [1][-]{section.9.5}{Printing documents, pictures}{chapter.9}
+\BOOKMARK [1][-]{section.9.6}{Composing Emails}{chapter.9}
+\BOOKMARK [1][-]{section.9.7}{Browsing the web}{chapter.9}
+\BOOKMARK [1][-]{section.9.8}{Sharing files with other users}{chapter.9}
+\BOOKMARK [1][-]{section.9.9}{Playing Games}{chapter.9}
+\BOOKMARK [0][-]{chapter.10}{Advanced Topics}{part.2}
+\BOOKMARK [1][-]{section.10.1}{Installing other desktop shells \(GNOME Shell, GNOME Classic\)}{chapter.10}
+\BOOKMARK [0][-]{chapter.11}{Working effectively using Ubuntu}{part.2}
+\BOOKMARK [1][-]{section.11.1}{Virtual Workspaces}{chapter.11}
+\BOOKMARK [1][-]{section.11.2}{Switching between applications}{chapter.11}
+\BOOKMARK [1][-]{section.11.3}{Heads Up Display \(HUD\)}{chapter.11}
+\BOOKMARK [1][-]{section.11.4}{Keyboard shortcuts for using Unity}{chapter.11}
+\BOOKMARK [0][-]{chapter.12}{Customising Ubuntu}{part.2}
+\BOOKMARK [1][-]{section.12.1}{Installing Lens \046 Scopes}{chapter.12}
+\BOOKMARK [1][-]{section.12.2}{3rd Party Applications}{chapter.12}
+\BOOKMARK [1][-]{section.12.3}{Appearance}{chapter.12}
+\BOOKMARK [1][-]{section.12.4}{Privacy}{chapter.12}
+\BOOKMARK [-1][-]{part.3}{III Getting Help}{}
+\BOOKMARK [0][-]{chapter.13}{What to do if you are stuck?}{part.3}
+\BOOKMARK [1][-]{section.13.1}{Ubuntu Help}{chapter.13}
+\BOOKMARK [1][-]{section.13.2}{Latest news in the Ubuntu world}{chapter.13}
+\BOOKMARK [-1][-]{part.4}{IV End Credits}{}
+\BOOKMARK [0][-]{chapter.14}{Contributors}{part.4}
+\BOOKMARK [-1][-]{part.5}{V Appendix}{}
+\BOOKMARK [0][-]{chapter.15}{Appendix A - Keyboard shortcuts}{part.5}
+\BOOKMARK [0][-]{chapter.16}{Appendix B - Terminal commands}{part.5}
+\BOOKMARK [0][-]{chapter.17}{Appendix C - Keyboard keys to access the BIOS}{part.5}
