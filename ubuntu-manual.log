@@ -1,15 +1,21 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.9.16)  8 OCT 2012 00:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.27)  31 OCT 2012 01:23
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **ubuntu-manual.tex
-(./ubuntu-manual.tex
+(D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
 File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,49 +31,53 @@ File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
 File: latin1.def 2008/03/30 v1.1d Input encoding file
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
 Language: english 2005/03/30 v3.3o English support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
-\l@british = a dialect from \language\l@english 
-\l@UKenglish = a dialect from \language\l@english 
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count89
@@ -108,41 +118,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2009/06/22 v3.00
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -150,18 +160,18 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count102
@@ -176,14 +186,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen121
 \Gm@layoutvoffset=\dimen122
 \Gm@dimlist=\toks22
-)
-(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2012/02/19 v3.2f Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
 \captionmargin=\dimen123
 \captionmargin@=\dimen124
@@ -208,22 +219,23 @@ Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
 \sf@top=\skip49
 \sf@bottom=\skip50
 )
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen130
 \WF@size=\dimen131
 \c@WF@wrappedlines=\count113
 \WF@box=\box28
 \WF@everypar=\toks23
 Package: wrapfig 2003/01/31  v 3.6
-) (./mcode.sty
+)
+(D:\Github\Muktware-Ubuntu-Manual\mcode.sty
 -- Package: `mcode' 1.9 <2010/05/04> --
 Package: mcode 2010/05/04 1.9
  - settings optimized for display (colour formating)
  - line numbering enabled
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -237,7 +249,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count114
 \lst@gtempboxa=\box29
 \lst@token=\toks24
@@ -251,18 +263,18 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 \lst@lineno=\count119
 \lst@maxwidth=\dimen135
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count120
 \lst@skipnumbers=\count121
 \lst@framebox=\box30
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -277,7 +289,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 266.
@@ -343,7 +355,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip51
 \f@ncyO@elh=\skip52
 \f@ncyO@erh=\skip53
@@ -354,10 +366,10 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 \f@ncyO@olf=\skip58
 \f@ncyO@orf=\skip59
 )
-(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count122
@@ -366,16 +378,16 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box31
 \rot@mess@toks=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -404,7 +416,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -412,19 +424,19 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen136
 \Hy@linkcounter=\count123
 \Hy@pagecounter=\count124
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count125
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `final' set `true' on input line 3941.
@@ -437,7 +449,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count126
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -461,22 +473,22 @@ LaTeX Info: Redefining \pageref on input line 5847.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
 \Fld@listcount=\count131
 \c@bookmark@seq@number=\count132
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip62
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2012/04/03 v0.4s Insert pages of external PDF documents (AM)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count133
 \calc@Bcount=\count134
@@ -489,27 +501,25 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count135
 \calc@Cskip=\skip65
 )
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2012/04/03 v0.4s Pdfpages driver for pdfTeX (AM)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box32
 \AM@toc@title=\toks26
 \c@AM@survey=\count136
 \AM@templatesizebox=\box33
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 24.
 \@indexfile=\write3
-\openout3 = `ubuntu-manual.idx'.
-
 
 Writing index file ubuntu-manual.idx
-(./ubuntu-manual.aux
+(D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.aux
 
 LaTeX Warning: Label `sect:obtain_ubuntu' multiply defined.
 
@@ -574,8 +584,6 @@ LaTeX Warning: Label `sub@fig:messaging-menu' multiply defined.
 LaTeX Warning: Label `tab:keyboard-shortcuts' multiply defined.
 
 )
-\openout1 = `ubuntu-manual.aux'.
-
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
@@ -590,14 +598,14 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count137
 \scratchdimen=\dimen141
@@ -610,21 +618,7 @@ LaTeX Font Info:    ... okay on input line 30.
 \MPnumerator=\count141
 \makeMPintoPDFobject=\count142
 \everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -669,10 +663,10 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count143
 \AtBeginShipoutBox=\box35
 Package hyperref Info: Link coloring ON on input line 30.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count144
@@ -681,12 +675,11 @@ LaTeX Info: Redefining \ref on input line 30.
 LaTeX Info: Redefining \pageref on input line 30.
 LaTeX Info: Redefining \nameref on input line 30.
 
-(./ubuntu-manual.out) (./ubuntu-manual.out)
+(D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.out)
+(D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.out)
 \@outlinefile=\write4
-\openout4 = `ubuntu-manual.out'.
 
-
-<cover.pdf, id=279, page=2, 597.50829pt x 845.0471pt>
+<cover.pdf, id=277, page=2, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf, page2 used on input line 32.
@@ -711,8 +704,8 @@ Package pdftex.def Info: cover.pdf, page2 used on input line 32.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [1
 
- <./cover.pdf>]
-<cover.pdf, id=291, page=1, 597.50829pt x 845.0471pt>
+ <D:/Github/Muktware-Ubuntu-Manual/cover.pdf>]
+<cover.pdf, id=289, page=1, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf, page1 used on input line 33.
@@ -735,7 +728,8 @@ File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf, page1 used on input line 33.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [2 <./cover.pdf>] (./tex/title.tex
+ [2 <D:/Github/Muktware-Ubuntu-Manual/cover.pdf>]
+(D:\Github\Muktware-Ubuntu-Manual\tex\title.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
@@ -757,13 +751,13 @@ been already used, duplicate ignored
 l.20 \end{titlepage}
                      [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])pdfTeX warning (ext4): des
-tination with the same identifier (name{page.1}) has been already used, duplica
-te ignored
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])pdfTeX warning (ext4): de
+stination with the same identifier (name{page.1}) has been already used, duplic
+ate ignored
 <to be read again> 
                    \relax 
 l.46 \chapter
-             *{Preface} [1] (./tex/preface.tex
+             *{Preface} [1] (D:\Github\Muktware-Ubuntu-Manual\tex\preface.tex
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 5.
@@ -795,15 +789,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 l.50 \tableofcontents
                       [1
 
-] (./ubuntu-manual.toc
+] (D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
@@ -814,16 +808,14 @@ l.41 ...sentations, Spreadsheets}{55}{section.9.3}
 
 ])
 \tf@toc=\write5
-\openout5 = `ubuntu-manual.toc'.
-
  [3]
 Chapter 1.
-(./tex/ubuntu-users.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\ubuntu-users.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./images/ubuntu10-04.png, id=398, 1284.8pt x 770.88pt>
+<./images/ubuntu10-04.png, id=395, 1284.8pt x 770.88pt>
 File: ./images/ubuntu10-04.png Graphic file (type png)
 
 <use ./images/ubuntu10-04.png>
@@ -837,22 +829,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 [4
 
 
- <./images/ubuntu10-04.png>]
-<./images/ubuntu12-04.png, id=408, 1284.8pt x 803.0pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/ubuntu10-04.png>]
+<./images/ubuntu12-04.png, id=405, 1284.8pt x 803.0pt>
 File: ./images/ubuntu12-04.png Graphic file (type png)
 
 <use ./images/ubuntu12-04.png>
 Package pdftex.def Info: ./images/ubuntu12-04.png used on input line 27.
 (pdftex.def)             Requested size: 400.0pt x 249.99342pt.
-) [5 <./images/ubuntu12-04.png>]
+) [5 <D:/Github/Muktware-Ubuntu-Manual/images/ubuntu12-04.png>]
 Chapter 2.
-(./tex/other-users.tex) [6
+(D:\Github\Muktware-Ubuntu-Manual\tex\other-users.tex) [6
 
 ] [7
 
 ]
 Chapter 3.
-(./tex/about-ubuntu.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\about-ubuntu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
@@ -865,7 +857,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
  []
 
 
-<./images/about-ubuntu/ubuntu-release-cycle.png, id=433, 578.16pt x 446.6286pt>
+<./images/about-ubuntu/ubuntu-release-cycle.png, id=430, 578.16pt x 446.6286pt>
 File: ./images/about-ubuntu/ubuntu-release-cycle.png Graphic file (type png)
 <use ./images/about-ubuntu/ubuntu-release-cycle.png>
 Package pdftex.def Info: ./images/about-ubuntu/ubuntu-release-cycle.png used on
@@ -892,7 +884,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
  []
 
 
-<./images/about-ubuntu/ubuntu-releases.png, id=435, 735.74875pt x 316.18124pt>
+<./images/about-ubuntu/ubuntu-releases.png, id=432, 735.74875pt x 316.18124pt>
 File: ./images/about-ubuntu/ubuntu-releases.png Graphic file (type png)
 
 <use ./images/about-ubuntu/ubuntu-releases.png>
@@ -913,7 +905,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-[9 <./images/about-ubuntu/ubuntu-release-cycle.png>]
+[9 <D:/Github/Muktware-Ubuntu-Manual/images/about-ubuntu/ubuntu-release-cycle.p
+ng>]
 Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
@@ -923,14 +916,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
-) [10 <./images/about-ubuntu/ubuntu-releases.png>]
+) [10 <D:/Github/Muktware-Ubuntu-Manual/images/about-ubuntu/ubuntu-releases.png
+>]
 Chapter 4.
-(./tex/obtain-ubuntu.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\obtain-ubuntu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<./images/obtain-ubuntu/direct-link.png, id=458, 961.5925pt x 329.23pt>
+<./images/obtain-ubuntu/direct-link.png, id=455, 961.5925pt x 329.23pt>
 File: ./images/obtain-ubuntu/direct-link.png Graphic file (type png)
 
 <use ./images/obtain-ubuntu/direct-link.png>
@@ -939,7 +933,7 @@ ine 13.
 (pdftex.def)             Requested size: 400.0pt x 136.95444pt.
  [11
 
- <./images/obtain-ubuntu/direct-link.png>]
+ <D:/Github/Muktware-Ubuntu-Manual/images/obtain-ubuntu/direct-link.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
@@ -964,7 +958,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<./images/obtain-ubuntu/USB2.png, id=480, 1686.3pt x 1053.9375pt>
+<./images/obtain-ubuntu/USB2.png, id=476, 1686.3pt x 1053.9375pt>
 File: ./images/obtain-ubuntu/USB2.png Graphic file (type png)
 
 <use ./images/obtain-ubuntu/USB2.png>
@@ -976,7 +970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-<./images/obtain-ubuntu/USB3.png, id=482, 471.7625pt x 573.14125pt>
+<./images/obtain-ubuntu/USB3.png, id=478, 471.7625pt x 573.14125pt>
 File: ./images/obtain-ubuntu/USB3.png Graphic file (type png)
 
 <use ./images/obtain-ubuntu/USB3.png>
@@ -988,32 +982,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-<./images/obtain-ubuntu/USB4.png, id=483, 796.9775pt x 619.31375pt>
+<./images/obtain-ubuntu/USB4.png, id=479, 796.9775pt x 619.31375pt>
 File: ./images/obtain-ubuntu/USB4.png Graphic file (type png)
 
 <use ./images/obtain-ubuntu/USB4.png>
 Package pdftex.def Info: ./images/obtain-ubuntu/USB4.png used on input line 63.
 
 (pdftex.def)             Requested size: 300.0pt x 233.12093pt.
- [13 <./images/obtain-ubuntu/USB2.png> <./images/obtain-ubuntu/USB3.png>]
+ [13 <D:/Github/Muktware-Ubuntu-Manual/images/obtain-ubuntu/USB2.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/obtain-ubuntu/USB3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
-<./images/obtain-ubuntu/USB6.png, id=490, 471.7625pt x 573.14125pt>
+<./images/obtain-ubuntu/USB6.png, id=486, 471.7625pt x 573.14125pt>
 File: ./images/obtain-ubuntu/USB6.png Graphic file (type png)
 
 <use ./images/obtain-ubuntu/USB6.png>
 Package pdftex.def Info: ./images/obtain-ubuntu/USB6.png used on input line 73.
 
 (pdftex.def)             Requested size: 200.0pt x 242.98274pt.
-) [14 <./images/obtain-ubuntu/USB4.png> <./images/obtain-ubuntu/USB6.png>]
+) [14 <D:/Github/Muktware-Ubuntu-Manual/images/obtain-ubuntu/USB4.png> <D:/Gith
+ub/Muktware-Ubuntu-Manual/images/obtain-ubuntu/USB6.png>]
 Chapter 5.
-(./tex/installation.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\installation.tex
 LaTeX Font Info:    Try loading font information for TS1+cmss on input line 11.
 
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmss.fd"
 File: ts1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
@@ -1047,7 +1043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-<./images/installation/basic-start.png, id=509, 721.69624pt x 399.4925pt>
+<./images/installation/basic-start.png, id=505, 721.69624pt x 399.4925pt>
 File: ./images/installation/basic-start.png Graphic file (type png)
 
 <use ./images/installation/basic-start.png>
@@ -1060,26 +1056,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
  []
 
 
-<./images/installation/install-live-start.png, id=511, 750.805pt x 541.02126pt>
+<./images/installation/install-live-start.png, id=507, 750.805pt x 541.02126pt>
 File: ./images/installation/install-live-start.png Graphic file (type png)
 <use ./images/installation/install-live-start.png>
 Package pdftex.def Info: ./images/installation/install-live-start.png used on i
 nput line 51.
 (pdftex.def)             Requested size: 300.0pt x 216.18176pt.
- [16 <./images/installation/basic-start.png> <./images/installation/install-liv
-e-start.png>]
+ [16 <D:/Github/Muktware-Ubuntu-Manual/images/installation/basic-start.png> <D:
+/Github/Muktware-Ubuntu-Manual/images/installation/install-live-start.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-<./images/installation/install-live1.png, id=521, 1030.85126pt x 772.8875pt>
+<./images/installation/install-live1.png, id=517, 1030.85126pt x 772.8875pt>
 File: ./images/installation/install-live1.png Graphic file (type png)
 
 <use ./images/installation/install-live1.png>
 Package pdftex.def Info: ./images/installation/install-live1.png used on input 
 line 62.
 (pdftex.def)             Requested size: 400.0pt x 299.90356pt.
- [17 <./images/installation/install-live1.png>]
+ [17 <D:/Github/Muktware-Ubuntu-Manual/images/installation/install-live1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
@@ -1100,15 +1096,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
  []
 
 
-<./images/installation/install-live-start2.png, id=529, 750.805pt x 541.02126pt
+<./images/installation/install-live-start2.png, id=525, 750.805pt x 541.02126pt
 >
 File: ./images/installation/install-live-start2.png Graphic file (type png)
  <use ./images/installation/install-live-start2.png>
 Package pdftex.def Info: ./images/installation/install-live-start2.png used on 
 input line 88.
 (pdftex.def)             Requested size: 300.0pt x 216.18176pt.
- [18 <./images/installation/install-live-start2.png>]
-<./images/installation/installer-prepare.png, id=537, 751.80875pt x 554.07pt>
+ [18 <D:/Github/Muktware-Ubuntu-Manual/images/installation/install-live-start2.
+png>]
+<./images/installation/installer-prepare.png, id=533, 751.80875pt x 554.07pt>
 File: ./images/installation/installer-prepare.png Graphic file (type png)
 
 <use ./images/installation/installer-prepare.png>
@@ -1121,7 +1118,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
  []
 
 
-<./images/installation/installer-os-options.png, id=538, 750.805pt x 468.75125p
+<./images/installation/installer-os-options.png, id=534, 750.805pt x 468.75125p
 t>
 File: ./images/installation/installer-os-options.png Graphic file (type png)
  <use ./images/installation/installer-os-options.png>
@@ -1134,7 +1131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
  []
 
 
-<./images/installation/installer-onlyubuntu.png, id=539, 750.805pt x 468.75125p
+<./images/installation/installer-onlyubuntu.png, id=535, 750.805pt x 468.75125p
 t>
 File: ./images/installation/installer-onlyubuntu.png Graphic file (type png)
  <use ./images/installation/installer-onlyubuntu.png>
@@ -1145,27 +1142,29 @@ Package pdftex.def Info: ./images/installation/installer-onlyubuntu.png used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19 <./images/installation/installer-prepare.png> <./images/installation/instal
-ler-os-options.png>]
+[19 <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-prepare.png
+> <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-os-options.pn
+g>]
 Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-<./images/installation/installer-keyboard.png, id=547, 752.8125pt x 538.01pt>
+<./images/installation/installer-keyboard.png, id=543, 752.8125pt x 538.01pt>
 File: ./images/installation/installer-keyboard.png Graphic file (type png)
 
 <use ./images/installation/installer-keyboard.png>
 Package pdftex.def Info: ./images/installation/installer-keyboard.png used on i
 nput line 129.
 (pdftex.def)             Requested size: 300.0pt x 214.40387pt.
- [20 <./images/installation/installer-onlyubuntu.png> <./images/installation/in
-staller-keyboard.png>]
+ [20 <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-onlyubuntu
+.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-keyboard.
+png>]
 Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-<./images/installation/installer-timezone.png, id=556, 752.8125pt x 536.0025pt>
+<./images/installation/installer-timezone.png, id=552, 752.8125pt x 536.0025pt>
 File: ./images/installation/installer-timezone.png Graphic file (type png)
 <use ./images/installation/installer-timezone.png>
 Package pdftex.def Info: ./images/installation/installer-timezone.png used on i
@@ -1176,15 +1175,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-<./images/installation/installer-who.png, id=557, 755.82375pt x 538.01pt>
+<./images/installation/installer-who.png, id=553, 755.82375pt x 538.01pt>
 File: ./images/installation/installer-who.png Graphic file (type png)
 
 <use ./images/installation/installer-who.png>
 Package pdftex.def Info: ./images/installation/installer-who.png used on input 
 line 149.
 (pdftex.def)             Requested size: 300.0pt x 213.54189pt.
- [21 <./images/installation/installer-timezone.png> <./images/installation/inst
-aller-who.png>]
+ [21 <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-timezone.p
+ng> <D:/Github/Muktware-Ubuntu-Manual/images/installation/installer-who.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
@@ -1195,7 +1194,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
  []
 
 
-<./images/installation/virtualbox/virtualbox-main.png, id=568, 774.895pt x 581.
+<./images/installation/virtualbox/virtualbox-main.png, id=564, 774.895pt x 581.
 17125pt>
 File: ./images/installation/virtualbox/virtualbox-main.png Graphic file (type p
 ng)
@@ -1209,7 +1208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--189
  []
 
 
-<./images/installation/virtualbox/wizard-newvirtual.png, id=570, 697.60625pt x 
+<./images/installation/virtualbox/wizard-newvirtual.png, id=566, 697.60625pt x 
 455.7025pt>
 File: ./images/installation/virtualbox/wizard-newvirtual.png Graphic file (type
  png)
@@ -1222,9 +1221,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
-[22 <./images/installation/virtualbox/virtualbox-main.png> <./images/installati
-on/virtualbox/wizard-newvirtual.png>]
-<./images/installation/virtualbox/wizard-memory.png, id=578, 697.60625pt x 455.
+[22 <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/virtualbox
+-main.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wiz
+ard-newvirtual.png>]
+<./images/installation/virtualbox/wizard-memory.png, id=574, 697.60625pt x 455.
 7025pt>
 File: ./images/installation/virtualbox/wizard-memory.png Graphic file (type png
 )
@@ -1238,7 +1238,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--207
  []
 
 
-<./images/installation/virtualbox/wizard-newharddisk.png, id=580, 697.60625pt x
+<./images/installation/virtualbox/wizard-newharddisk.png, id=576, 697.60625pt x
  455.7025pt>
 File: ./images/installation/virtualbox/wizard-newharddisk.png Graphic file (typ
 e png)
@@ -1251,14 +1251,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
-[23 <./images/installation/virtualbox/wizard-memory.png> <./images/installation
-/virtualbox/wizard-newharddisk.png>]
+[23 <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizard-mem
+ory.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizar
+d-newharddisk.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
 
-<./images/installation/virtualbox/wizard-VDI.png, id=590, 753.81625pt x 530.983
+<./images/installation/virtualbox/wizard-VDI.png, id=586, 753.81625pt x 530.983
 75pt>
 File: ./images/installation/virtualbox/wizard-VDI.png Graphic file (type png)
  <use ./images/installation/virtualbox/wizard-VDI.png>
@@ -1271,7 +1272,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 227--228
  []
 
 
-<./images/installation/virtualbox/wizard-dynamicsize.png, id=592, 753.81625pt x
+<./images/installation/virtualbox/wizard-dynamicsize.png, id=588, 753.81625pt x
  530.98375pt>
 File: ./images/installation/virtualbox/wizard-dynamicsize.png Graphic file (typ
 e png)
@@ -1280,14 +1281,15 @@ Package pdftex.def Info: ./images/installation/virtualbox/wizard-dynamicsize.pn
 g used on input line 231.
 (pdftex.def)             Requested size: 300.0pt x 211.31213pt.
 
-[24 <./images/installation/virtualbox/wizard-VDI.png> <./images/installation/vi
-rtualbox/wizard-dynamicsize.png>]
+[24 <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizard-VDI
+.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizard-d
+ynamicsize.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
 
-<./images/installation/virtualbox/wizard-sizelocation.png, id=603, 753.81625pt 
+<./images/installation/virtualbox/wizard-sizelocation.png, id=599, 753.81625pt 
 x 530.98375pt>
 File: ./images/installation/virtualbox/wizard-sizelocation.png Graphic file (ty
 pe png)
@@ -1301,7 +1303,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--247
  []
 
 
-<./images/installation/virtualbox/Wizard-complete.png, id=604, 697.60625pt x 45
+<./images/installation/virtualbox/Wizard-complete.png, id=600, 697.60625pt x 45
 5.7025pt>
 File: ./images/installation/virtualbox/Wizard-complete.png Graphic file (type p
 ng)
@@ -1309,14 +1311,15 @@ ng)
 Package pdftex.def Info: ./images/installation/virtualbox/Wizard-complete.png u
 sed on input line 250.
 (pdftex.def)             Requested size: 300.0pt x 195.9691pt.
- [25 <./images/installation/virtualbox/wizard-sizelocation.png> <./images/insta
-llation/virtualbox/Wizard-complete.png>]
+ [25 <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizard-si
+zelocation.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbo
+x/Wizard-complete.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-<./images/installation/virtualbox/wizard-final.png, id=614, 774.895pt x 581.171
+<./images/installation/virtualbox/wizard-final.png, id=610, 774.895pt x 581.171
 25pt>
 File: ./images/installation/virtualbox/wizard-final.png Graphic file (type png)
 
@@ -1330,7 +1333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 265--266
  []
 
 
-<./images/installation/virtualbox/settings-display.png, id=616, 671.50874pt x 5
+<./images/installation/virtualbox/settings-display.png, id=612, 671.50874pt x 5
 86.19pt>
 File: ./images/installation/virtualbox/settings-display.png Graphic file (type 
 png)
@@ -1344,7 +1347,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--275
  []
 
 
-<./images/installation/virtualbox/settings-storage.png, id=618, 671.50874pt x 5
+<./images/installation/virtualbox/settings-storage.png, id=614, 671.50874pt x 5
 86.19pt>
 File: ./images/installation/virtualbox/settings-storage.png Graphic file (type 
 png)
@@ -1361,18 +1364,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
-[26 <./images/installation/virtualbox/wizard-final.png> <./images/installation/
-virtualbox/settings-display.png>]) [27 <./images/installation/virtualbox/settin
-gs-storage.png>] [28
+[26 <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/wizard-fin
+al.png> <D:/Github/Muktware-Ubuntu-Manual/images/installation/virtualbox/settin
+gs-display.png>]) [27 <D:/Github/Muktware-Ubuntu-Manual/images/installation/vir
+tualbox/settings-storage.png>] [28
 
 ]
 Chapter 6.
-(./tex/desktop.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\desktop.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-<./images/desktop/desktop.png, id=638, 1284.8pt x 803.0pt>
+<./images/desktop/desktop.png, id=633, 1284.8pt x 803.0pt>
 File: ./images/desktop/desktop.png Graphic file (type png)
 
 <use ./images/desktop/desktop.png>
@@ -1385,8 +1389,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
 [29
 
- <./images/desktop/desktop.png>]
-<./images/desktop/applications.png, id=646, 65.24374pt x 239.89626pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/desktop/desktop.png>]
+<./images/desktop/applications.png, id=641, 65.24374pt x 239.89626pt>
 File: ./images/desktop/applications.png Graphic file (type png)
 
 <use ./images/desktop/applications.png>
@@ -1394,7 +1398,7 @@ Package pdftex.def Info: ./images/desktop/applications.png used on input line 2
 9.
 (pdftex.def)             Requested size: 40.0pt x 147.07957pt.
 
-<./images/desktop/move-applications.png, id=647, 71.26625pt x 180.675pt>
+<./images/desktop/move-applications.png, id=642, 71.26625pt x 180.675pt>
 File: ./images/desktop/move-applications.png Graphic file (type png)
 
 <use ./images/desktop/move-applications.png>
@@ -1411,7 +1415,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<./images/desktop/update-number.png, id=651, 48.18pt x 48.18pt>
+<./images/desktop/update-number.png, id=646, 48.18pt x 48.18pt>
 File: ./images/desktop/update-number.png Graphic file (type png)
 
 <use ./images/desktop/update-number.png>
@@ -1423,7 +1427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-<./images/desktop/dash.png, id=654, 1284.8pt x 803.0pt>
+<./images/desktop/dash.png, id=649, 1284.8pt x 803.0pt>
 File: ./images/desktop/dash.png Graphic file (type png)
 
 <use ./images/desktop/dash.png>
@@ -1438,8 +1442,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-[30 <./images/desktop/applications.png> <./images/desktop/move-applications.png
-> <./images/desktop/update-number.png>]
+[30 <D:/Github/Muktware-Ubuntu-Manual/images/desktop/applications.png> <D:/Gith
+ub/Muktware-Ubuntu-Manual/images/desktop/move-applications.png> <D:/Github/Mukt
+ware-Ubuntu-Manual/images/desktop/update-number.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
@@ -1464,7 +1469,7 @@ Overfull \hbox (0.5119pt too wide) in paragraph at lines 73--74
 [] 
  []
 
-<./images/desktop/indicators.png, id=669, 373.395pt x 24.09pt>
+<./images/desktop/indicators.png, id=664, 373.395pt x 24.09pt>
 File: ./images/desktop/indicators.png Graphic file (type png)
 
 <use ./images/desktop/indicators.png>
@@ -1475,8 +1480,8 @@ Package pdftex.def Info: ./images/desktop/indicators.png used on input line 80.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31 <./images/desktop/dash.png>]
-<./images/desktop/sound-menu.png, id=677, 226.8475pt x 338.26375pt>
+[31 <D:/Github/Muktware-Ubuntu-Manual/images/desktop/dash.png>]
+<./images/desktop/sound-menu.png, id=672, 226.8475pt x 338.26375pt>
 File: ./images/desktop/sound-menu.png Graphic file (type png)
 
 <use ./images/desktop/sound-menu.png>
@@ -1484,7 +1489,7 @@ Package pdftex.def Info: ./images/desktop/sound-menu.png used on input line 101
 .
 (pdftex.def)             Requested size: 100.0pt x 149.11522pt.
 
-<./images/desktop/messaging-menu.png, id=678, 153.57375pt x 278.03876pt>
+<./images/desktop/messaging-menu.png, id=673, 153.57375pt x 278.03876pt>
 File: ./images/desktop/messaging-menu.png Graphic file (type png)
 
 <use ./images/desktop/messaging-menu.png>
@@ -1496,7 +1501,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
-<./images/desktop/HUD-firefox.png, id=680, 1284.8pt x 803.0pt>
+<./images/desktop/HUD-firefox.png, id=675, 1284.8pt x 803.0pt>
 File: ./images/desktop/HUD-firefox.png Graphic file (type png)
 
 <use ./images/desktop/HUD-firefox.png>
@@ -1507,18 +1512,20 @@ Package pdftex.def Info: ./images/desktop/HUD-firefox.png used on input line 11
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [32 <./images/desktop/indicators.png> <./images/desktop/sound-menu.png> <./im
-ages/desktop/messaging-menu.png>] [33 <./images/desktop/HUD-firefox.png>]
+) [32 <D:/Github/Muktware-Ubuntu-Manual/images/desktop/indicators.png> <D:/Gith
+ub/Muktware-Ubuntu-Manual/images/desktop/sound-menu.png> <D:/Github/Muktware-Ub
+untu-Manual/images/desktop/messaging-menu.png>] [33 <D:/Github/Muktware-Ubuntu-
+Manual/images/desktop/HUD-firefox.png>]
 Chapter 7.
-(./tex/applications.tex
-<./images/applications/USC.png, id=698, 1141.26375pt x 785.93625pt>
+(D:\Github\Muktware-Ubuntu-Manual\tex\applications.tex
+<./images/applications/USC.png, id=693, 1141.26375pt x 785.93625pt>
 File: ./images/applications/USC.png Graphic file (type png)
 
 <use ./images/applications/USC.png>
 Package pdftex.def Info: ./images/applications/USC.png used on input line 8.
 (pdftex.def)             Requested size: 325.0pt x 223.81427pt.
 
-<./images/applications/usc-icon.png, id=701, 53.19875pt x 50.1875pt>
+<./images/applications/usc-icon.png, id=696, 53.19875pt x 50.1875pt>
 File: ./images/applications/usc-icon.png Graphic file (type png)
 
 <use ./images/applications/usc-icon.png>
@@ -1532,8 +1539,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
 [34
 
- <./images/applications/USC.png> <./images/applications/usc-icon.png>]
-<./images/applications/vlc-search.png, id=710, 973.6375pt x 713.66624pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/applications/USC.png> <D:/Github/Mukt
+ware-Ubuntu-Manual/images/applications/usc-icon.png>]
+<./images/applications/vlc-search.png, id=705, 973.6375pt x 713.66624pt>
 File: ./images/applications/vlc-search.png Graphic file (type png)
 
 <use ./images/applications/vlc-search.png>
@@ -1541,7 +1549,7 @@ Package pdftex.def Info: ./images/applications/vlc-search.png used on input lin
 e 31.
 (pdftex.def)             Requested size: 300.0pt x 219.89482pt.
 
-<./images/applications/vlc-info.png, id=712, 991.705pt x 759.83875pt>
+<./images/applications/vlc-info.png, id=707, 991.705pt x 759.83875pt>
 File: ./images/applications/vlc-info.png Graphic file (type png)
 
 <use ./images/applications/vlc-info.png>
@@ -1553,8 +1561,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[35 <./images/applications/vlc-search.png> <./images/applications/vlc-info.png>
-] <./images/applications/vlc-install.png, id=721, 991.705pt x 264.99pt>
+[35 <D:/Github/Muktware-Ubuntu-Manual/images/applications/vlc-search.png> <D:/G
+ithub/Muktware-Ubuntu-Manual/images/applications/vlc-info.png>]
+<./images/applications/vlc-install.png, id=716, 991.705pt x 264.99pt>
 File: ./images/applications/vlc-install.png Graphic file (type png)
 
 <use ./images/applications/vlc-install.png>
@@ -1571,7 +1580,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-<./images/applications/uninstall-apps.png, id=723, 991.705pt x 759.83875pt>
+<./images/applications/uninstall-apps.png, id=718, 991.705pt x 759.83875pt>
 File: ./images/applications/uninstall-apps.png Graphic file (type png)
 
 <use ./images/applications/uninstall-apps.png>
@@ -1579,7 +1588,7 @@ Package pdftex.def Info: ./images/applications/uninstall-apps.png used on input
  line 61.
 (pdftex.def)             Requested size: 325.0pt x 249.00842pt.
 
-<./images/applications/uninstall-vlc.png, id=728, 991.705pt x 258.9675pt>
+<./images/applications/uninstall-vlc.png, id=723, 991.705pt x 258.9675pt>
 File: ./images/applications/uninstall-vlc.png Graphic file (type png)
 
 <use ./images/applications/uninstall-vlc.png>
@@ -1595,8 +1604,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[36 <./images/applications/vlc-install.png> <./images/applications/uninstall-ap
-ps.png>]
+[36 <D:/Github/Muktware-Ubuntu-Manual/images/applications/vlc-install.png> <D:/
+Github/Muktware-Ubuntu-Manual/images/applications/uninstall-apps.png>]
 Overfull \hbox (0.5119pt too wide) in paragraph at lines 78--79
 [] 
  []
@@ -1606,7 +1615,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-<./images/applications/chrome-download.png, id=739, 648.4225pt x 571.13374pt>
+<./images/applications/chrome-download.png, id=734, 648.4225pt x 571.13374pt>
 File: ./images/applications/chrome-download.png Graphic file (type png)
 
 <use ./images/applications/chrome-download.png>
@@ -1618,7 +1627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<./images/applications/debfile-icon.png, id=741, 143.53625pt x 108.405pt>
+<./images/applications/debfile-icon.png, id=736, 143.53625pt x 108.405pt>
 File: ./images/applications/debfile-icon.png Graphic file (type png)
 
 <use ./images/applications/debfile-icon.png>
@@ -1644,9 +1653,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-[37 <./images/applications/uninstall-vlc.png> <./images/applications/chrome-dow
-nload.png>]
-<./images/applications/software-sources-menu.png, id=751, 1280.785pt x 361.35pt
+[37 <D:/Github/Muktware-Ubuntu-Manual/images/applications/uninstall-vlc.png> <D
+:/Github/Muktware-Ubuntu-Manual/images/applications/chrome-download.png>]
+<./images/applications/software-sources-menu.png, id=745, 1280.785pt x 361.35pt
 >
 File: ./images/applications/software-sources-menu.png Graphic file (type png)
  <use ./images/applications/software-sources-menu.png>
@@ -1658,7 +1667,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-<./images/applications/software-source.png, id=753, 570.13pt x 451.6875pt>
+<./images/applications/software-source.png, id=747, 570.13pt x 451.6875pt>
 File: ./images/applications/software-source.png Graphic file (type png)
 
 <use ./images/applications/software-source.png>
@@ -1671,7 +1680,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--125
  []
 
 
-<./images/applications/software-source-ppa.png, id=755, 570.13pt x 451.6875pt>
+<./images/applications/software-source-ppa.png, id=749, 570.13pt x 451.6875pt>
 File: ./images/applications/software-source-ppa.png Graphic file (type png)
 
 <use ./images/applications/software-source-ppa.png>
@@ -1687,9 +1696,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
-[38 <./images/applications/debfile-icon.png> <./images/applications/software-so
-urces-menu.png> <./images/applications/software-source.png>]
-<./images/applications/software-source-ppa-add.png, id=766, 644.4075pt x 234.87
+[38 <D:/Github/Muktware-Ubuntu-Manual/images/applications/debfile-icon.png> <D:
+/Github/Muktware-Ubuntu-Manual/images/applications/software-sources-menu.png> <
+D:/Github/Muktware-Ubuntu-Manual/images/applications/software-source.png>]
+<./images/applications/software-source-ppa-add.png, id=760, 644.4075pt x 234.87
 75pt>
 File: ./images/applications/software-source-ppa-add.png Graphic file (type png)
 
@@ -1703,7 +1713,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--143
  []
 
 
-<./images/applications/software-source-ppa-installapp.png, id=769, 991.705pt x 
+<./images/applications/software-source-ppa-installapp.png, id=763, 991.705pt x 
 294.09875pt>
 File: ./images/applications/software-source-ppa-installapp.png Graphic file (ty
 pe png)
@@ -1726,10 +1736,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[39 <./images/applications/software-source-ppa.png> <./images/applications/soft
-ware-source-ppa-add.png> <./images/applications/software-source-ppa-installapp.
-png>]
-<./images/applications/update-manager.png, id=779, 604.2575pt x 701.62125pt>
+[39 <D:/Github/Muktware-Ubuntu-Manual/images/applications/software-source-ppa.p
+ng> <D:/Github/Muktware-Ubuntu-Manual/images/applications/software-source-ppa-a
+dd.png> <D:/Github/Muktware-Ubuntu-Manual/images/applications/software-source-p
+pa-installapp.png>]
+<./images/applications/update-manager.png, id=773, 604.2575pt x 701.62125pt>
 File: ./images/applications/update-manager.png Graphic file (type png)
 
 <use ./images/applications/update-manager.png>
@@ -1741,7 +1752,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-<./images/applications/update-preferences.png, id=783, 570.13pt x 451.6875pt>
+<./images/applications/update-preferences.png, id=777, 570.13pt x 451.6875pt>
 File: ./images/applications/update-preferences.png Graphic file (type png)
 
 <use ./images/applications/update-preferences.png>
@@ -1752,10 +1763,11 @@ nput line 167.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [40 <./images/applications/update-manager.png>] [41 <./images/applications/up
-date-preferences.png>]
+) [40 <D:/Github/Muktware-Ubuntu-Manual/images/applications/update-manager.png>
+] [41 <D:/Github/Muktware-Ubuntu-Manual/images/applications/update-preferences.
+png>]
 Chapter 8.
-(./tex/terminal-basics.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\terminal-basics.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1765,7 +1777,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./images/terminal/open-terminal.png, id=798, 1284.8pt x 803.0pt>
+<./images/terminal/open-terminal.png, id=792, 1284.8pt x 803.0pt>
 File: ./images/terminal/open-terminal.png Graphic file (type png)
 
 <use ./images/terminal/open-terminal.png>
@@ -1777,7 +1789,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-<./images/terminal/terminal-window.png, id=800, 724.7075pt x 421.575pt>
+<./images/terminal/terminal-window.png, id=794, 724.7075pt x 421.575pt>
 File: ./images/terminal/terminal-window.png Graphic file (type png)
 
 <use ./images/terminal/terminal-window.png>
@@ -1810,8 +1822,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
 [42
 
- <./images/terminal/open-terminal.png>]
-<./images/terminal/pwd-command.png, id=808, 643.40375pt x 74.2775pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/terminal/open-terminal.png>]
+<./images/terminal/pwd-command.png, id=802, 643.40375pt x 74.2775pt>
 File: ./images/terminal/pwd-command.png Graphic file (type png)
 
 <use ./images/terminal/pwd-command.png>
@@ -1823,7 +1835,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-<./images/terminal/ls-command.png, id=810, 644.4075pt x 292.09125pt>
+<./images/terminal/ls-command.png, id=804, 644.4075pt x 292.09125pt>
 File: ./images/terminal/ls-command.png Graphic file (type png)
 
 <use ./images/terminal/ls-command.png>
@@ -1845,13 +1857,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-[43 <./images/terminal/terminal-window.png> <./images/terminal/pwd-command.png 
-(PNG copy)> <./images/terminal/ls-command.png>]
+[43 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/terminal-window.png> <D:/
+Github/Muktware-Ubuntu-Manual/images/terminal/pwd-command.png (PNG copy)> <D:/G
+ithub/Muktware-Ubuntu-Manual/images/terminal/ls-command.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-<./images/terminal/sudo1.png, id=819, 641.39626pt x 92.345pt>
+<./images/terminal/sudo1.png, id=813, 641.39626pt x 92.345pt>
 File: ./images/terminal/sudo1.png Graphic file (type png)
 
 <use ./images/terminal/sudo1.png>
@@ -1862,7 +1875,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
-<./images/terminal/sudo2.png, id=821, 647.41875pt x 53.19875pt>
+<./images/terminal/sudo2.png, id=815, 647.41875pt x 53.19875pt>
 File: ./images/terminal/sudo2.png Graphic file (type png)
 
 <use ./images/terminal/sudo2.png>
@@ -1873,7 +1886,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
-<./images/terminal/sudo3.png, id=823, 637.38126pt x 302.12875pt>
+<./images/terminal/sudo3.png, id=817, 637.38126pt x 302.12875pt>
 File: ./images/terminal/sudo3.png Graphic file (type png)
 
 <use ./images/terminal/sudo3.png>
@@ -1894,8 +1907,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-[44 <./images/terminal/sudo1.png (PNG copy)> <./images/terminal/sudo2.png (PNG 
-copy)> <./images/terminal/sudo3.png (PNG copy)>]
+[44 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/sudo1.png (PNG copy)> <D:
+/Github/Muktware-Ubuntu-Manual/images/terminal/sudo2.png (PNG copy)> <D:/Github
+/Muktware-Ubuntu-Manual/images/terminal/sudo3.png (PNG copy)>]
 Overfull \hbox (0.5119pt too wide) in paragraph at lines 88--89
 [] 
  []
@@ -1905,21 +1919,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-<./images/terminal/mkdir1.png, id=832, 645.41125pt x 43.16125pt>
+<./images/terminal/mkdir1.png, id=826, 645.41125pt x 43.16125pt>
 File: ./images/terminal/mkdir1.png Graphic file (type png)
 
 <use ./images/terminal/mkdir1.png>
 Package pdftex.def Info: ./images/terminal/mkdir1.png used on input line 94.
 (pdftex.def)             Requested size: 350.0pt x 23.4055pt.
 
-<./images/terminal/mkdir2.png, id=833, 639.38875pt x 35.13126pt>
+<./images/terminal/mkdir2.png, id=827, 639.38875pt x 35.13126pt>
 File: ./images/terminal/mkdir2.png Graphic file (type png)
 
 <use ./images/terminal/mkdir2.png>
 Package pdftex.def Info: ./images/terminal/mkdir2.png used on input line 103.
 (pdftex.def)             Requested size: 350.0pt x 19.2311pt.
 
-<./images/terminal/rmdir1.png, id=834, 642.4pt x 35.13126pt>
+<./images/terminal/rmdir1.png, id=828, 642.4pt x 35.13126pt>
 File: ./images/terminal/rmdir1.png Graphic file (type png)
 
 <use ./images/terminal/rmdir1.png>
@@ -1930,7 +1944,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-<./images/terminal/mkdir4.png, id=836, 644.4075pt x 52.195pt>
+<./images/terminal/mkdir4.png, id=830, 644.4075pt x 52.195pt>
 File: ./images/terminal/mkdir4.png Graphic file (type png)
 
 <use ./images/terminal/mkdir4.png>
@@ -1956,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-<./images/terminal/mkdir5.png, id=837, 645.41125pt x 34.1275pt>
+<./images/terminal/mkdir5.png, id=831, 645.41125pt x 34.1275pt>
 File: ./images/terminal/mkdir5.png Graphic file (type png)
 
 <use ./images/terminal/mkdir5.png>
@@ -1971,7 +1985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
-<./images/terminal/mkdir6.png, id=838, 652.4375pt x 282.05376pt>
+<./images/terminal/mkdir6.png, id=832, 652.4375pt x 282.05376pt>
 File: ./images/terminal/mkdir6.png Graphic file (type png)
 
 <use ./images/terminal/mkdir6.png>
@@ -1986,8 +2000,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
-[45 <./images/terminal/mkdir1.png> <./images/terminal/mkdir2.png> <./images/ter
-minal/rmdir1.png> <./images/terminal/mkdir4.png (PNG copy)>]
+[45 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/mkdir1.png> <D:/Github/Mu
+ktware-Ubuntu-Manual/images/terminal/mkdir2.png> <D:/Github/Muktware-Ubuntu-Man
+ual/images/terminal/rmdir1.png> <D:/Github/Muktware-Ubuntu-Manual/images/termin
+al/mkdir4.png (PNG copy)>]
 Overfull \hbox (0.5119pt too wide) in paragraph at lines 150--151
 [] 
  []
@@ -2002,7 +2018,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
-<./images/terminal/rm1.png, id=849, 641.39626pt x 56.21pt>
+<./images/terminal/rm1.png, id=843, 641.39626pt x 56.21pt>
 File: ./images/terminal/rm1.png Graphic file (type png)
 
 <use ./images/terminal/rm1.png>
@@ -2028,7 +2044,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
-<./images/terminal/cp1.png, id=851, 643.40375pt x 124.465pt>
+<./images/terminal/cp1.png, id=845, 643.40375pt x 124.465pt>
 File: ./images/terminal/cp1.png Graphic file (type png)
 
 <use ./images/terminal/cp1.png>
@@ -2048,8 +2064,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
-[46 <./images/terminal/mkdir5.png> <./images/terminal/mkdir6.png> <./images/ter
-minal/rm1.png>]
+[46 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/mkdir5.png> <D:/Github/Mu
+ktware-Ubuntu-Manual/images/terminal/mkdir6.png> <D:/Github/Muktware-Ubuntu-Man
+ual/images/terminal/rm1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
@@ -2064,14 +2081,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--189
 
  []
 
-<./images/terminal/mv1.png, id=862, 645.41125pt x 88.33pt>
+<./images/terminal/mv1.png, id=856, 645.41125pt x 88.33pt>
 File: ./images/terminal/mv1.png Graphic file (type png)
 
 <use ./images/terminal/mv1.png>
 Package pdftex.def Info: ./images/terminal/mv1.png used on input line 194.
 (pdftex.def)             Requested size: 350.0pt x 47.89964pt.
 
-<./images/terminal/cp2.png, id=864, 645.41125pt x 88.33pt>
+<./images/terminal/cp2.png, id=858, 645.41125pt x 88.33pt>
 File: ./images/terminal/cp2.png Graphic file (type png)
 
 <use ./images/terminal/cp2.png>
@@ -2092,7 +2109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-<./images/terminal/mv2.png, id=866, 648.4225pt x 89.33376pt>
+<./images/terminal/mv2.png, id=860, 648.4225pt x 89.33376pt>
 File: ./images/terminal/mv2.png Graphic file (type png)
 
 <use ./images/terminal/mv2.png>
@@ -2103,20 +2120,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
-[47 <./images/terminal/cp1.png> <./images/terminal/mv1.png> <./images/terminal/
-cp2.png> <./images/terminal/mv2.png>]
+[47 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/cp1.png> <D:/Github/Muktw
+are-Ubuntu-Manual/images/terminal/mv1.png> <D:/Github/Muktware-Ubuntu-Manual/im
+ages/terminal/cp2.png> <D:/Github/Muktware-Ubuntu-Manual/images/terminal/mv2.pn
+g>]
 Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
-<./images/terminal/mv3.png, id=875, 644.4075pt x 322.20375pt>
+<./images/terminal/mv3.png, id=869, 644.4075pt x 322.20375pt>
 File: ./images/terminal/mv3.png Graphic file (type png)
 
 <use ./images/terminal/mv3.png>
 Package pdftex.def Info: ./images/terminal/mv3.png used on input line 225.
 (pdftex.def)             Requested size: 350.0pt x 175.00513pt.
 
-<./images/terminal/bugreport1.png, id=878, 528.97626pt x 58.2175pt>
+<./images/terminal/bugreport1.png, id=872, 528.97626pt x 58.2175pt>
 File: ./images/terminal/bugreport1.png Graphic file (type png)
 
 <use ./images/terminal/bugreport1.png>
@@ -2128,7 +2147,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
-[48 <./images/terminal/mv3.png> <./images/terminal/bugreport1.png>]
+[48 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/mv3.png> <D:/Github/Muktw
+are-Ubuntu-Manual/images/terminal/bugreport1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 246--247
 
  []
@@ -2148,7 +2168,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
-<./images/terminal/dist-upgrade.png, id=888, 644.4075pt x 347.2975pt>
+<./images/terminal/dist-upgrade.png, id=881, 644.4075pt x 347.2975pt>
 File: ./images/terminal/dist-upgrade.png Graphic file (type png)
 
 <use ./images/terminal/dist-upgrade.png>
@@ -2165,7 +2185,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
-[49 <./images/terminal/dist-upgrade.png (PNG copy)>]
+[49 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/dist-upgrade.png (PNG cop
+y)>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <7> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 274.
@@ -2186,7 +2207,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
-<./images/terminal/install-skype.png, id=895, 631.35875pt x 186.6975pt>
+<./images/terminal/install-skype.png, id=888, 631.35875pt x 186.6975pt>
 File: ./images/terminal/install-skype.png Graphic file (type png)
 
 <use ./images/terminal/install-skype.png>
@@ -2198,7 +2219,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 285--287
 
  []
 
-<./images/terminal/uninstall-skype.png, id=897, 644.4075pt x 162.6075pt>
+<./images/terminal/uninstall-skype.png, id=890, 644.4075pt x 162.6075pt>
 File: ./images/terminal/uninstall-skype.png Graphic file (type png)
 
 <use ./images/terminal/uninstall-skype.png>
@@ -2210,7 +2231,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
-<./images/terminal/autoremove.png, id=899, 644.4075pt x 120.45pt>
+<./images/terminal/autoremove.png, id=892, 644.4075pt x 120.45pt>
 File: ./images/terminal/autoremove.png Graphic file (type png)
 
 <use ./images/terminal/autoremove.png>
@@ -2222,11 +2243,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
-) [50 <./images/terminal/install-skype.png (PNG copy)> <./images/terminal/unins
-tall-skype.png (PNG copy)> <./images/terminal/autoremove.png (PNG copy)>]
-[51]
+) [50 <D:/Github/Muktware-Ubuntu-Manual/images/terminal/install-skype.png (PNG 
+copy)> <D:/Github/Muktware-Ubuntu-Manual/images/terminal/uninstall-skype.png (P
+NG copy)> <D:/Github/Muktware-Ubuntu-Manual/images/terminal/autoremove.png (PNG
+ copy)>] [51]
 Chapter 9.
-(./tex/basic-tasks.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\basic-tasks.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -2241,7 +2263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-<./images/basic-tasks/gwibber1.png, id=912, 1027.84pt x 602.25pt>
+<./images/basic-tasks/gwibber1.png, id=905, 1027.84pt x 602.25pt>
 File: ./images/basic-tasks/gwibber1.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber1.png>
@@ -2253,7 +2275,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-<./images/basic-tasks/gwibber2.png, id=914, 644.4075pt x 430.60875pt>
+<./images/basic-tasks/gwibber2.png, id=907, 644.4075pt x 430.60875pt>
 File: ./images/basic-tasks/gwibber2.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber2.png>
@@ -2266,12 +2288,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [52
 
- <./images/basic-tasks/gwibber1.png (PNG copy)>]
+ <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber1.png (PNG copy)>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<./images/basic-tasks/gwibber3.png, id=925, 492.84125pt x 335.2525pt>
+<./images/basic-tasks/gwibber3.png, id=918, 492.84125pt x 335.2525pt>
 File: ./images/basic-tasks/gwibber3.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber3.png>
@@ -2283,7 +2306,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
-<./images/basic-tasks/gwibber4.png, id=928, 582.175pt x 471.7625pt>
+<./images/basic-tasks/gwibber4.png, id=921, 582.175pt x 471.7625pt>
 File: ./images/basic-tasks/gwibber4.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber4.png>
@@ -2295,9 +2318,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-[53 <./images/basic-tasks/gwibber2.png (PNG copy)> <./images/basic-tasks/gwibbe
-r3.png (PNG copy)> <./images/basic-tasks/gwibber4.png (PNG copy)>]
-<./images/basic-tasks/gwibber5.png, id=936, 503.8825pt x 614.295pt>
+[53 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber2.png (PNG copy
+)> <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber3.png (PNG copy)
+> <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber4.png (PNG copy)>
+] <./images/basic-tasks/gwibber5.png, id=929, 503.8825pt x 614.295pt>
 File: ./images/basic-tasks/gwibber5.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber5.png>
@@ -2305,7 +2329,7 @@ Package pdftex.def Info: ./images/basic-tasks/gwibber5.png used on input line 7
 0.
 (pdftex.def)             Requested size: 200.0pt x 243.82022pt.
 
-<./images/basic-tasks/gwibber6.png, id=937, 489.83pt x 461.725pt>
+<./images/basic-tasks/gwibber6.png, id=930, 489.83pt x 461.725pt>
 File: ./images/basic-tasks/gwibber6.png Graphic file (type png)
 
 <use ./images/basic-tasks/gwibber6.png>
@@ -2317,7 +2341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<./images/basic-tasks/play-music1.png, id=939, 375.4025pt x 244.915pt>
+<./images/basic-tasks/play-music1.png, id=932, 375.4025pt x 244.915pt>
 File: ./images/basic-tasks/play-music1.png Graphic file (type png)
 
 <use ./images/basic-tasks/play-music1.png>
@@ -2329,7 +2353,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-<./images/basic-tasks/play-music2.png, id=941, 914.41624pt x 632.3625pt>
+<./images/basic-tasks/play-music2.png, id=934, 914.41624pt x 632.3625pt>
 File: ./images/basic-tasks/play-music2.png Graphic file (type png)
 
 <use ./images/basic-tasks/play-music2.png>
@@ -2345,9 +2369,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
-[54 <./images/basic-tasks/gwibber5.png (PNG copy)> <./images/basic-tasks/gwibbe
-r6.png (PNG copy)> <./images/basic-tasks/play-music1.png>]
-<./images/basic-tasks/play-music3.png, id=951, 373.395pt x 328.22626pt>
+[54 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber5.png (PNG copy
+)> <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/gwibber6.png (PNG copy)
+> <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/play-music1.png>]
+<./images/basic-tasks/play-music3.png, id=944, 373.395pt x 328.22626pt>
 File: ./images/basic-tasks/play-music3.png Graphic file (type png)
 
 <use ./images/basic-tasks/play-music3.png>
@@ -2369,7 +2394,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-<./images/basic-tasks/document-icon.png, id=953, 57.21375pt x 59.22125pt>
+<./images/basic-tasks/document-icon.png, id=946, 57.21375pt x 59.22125pt>
 File: ./images/basic-tasks/document-icon.png Graphic file (type png)
 
 <use ./images/basic-tasks/document-icon.png>
@@ -2377,7 +2402,7 @@ Package pdftex.def Info: ./images/basic-tasks/document-icon.png used on input l
 ine 115.
 (pdftex.def)             Requested size: 40.0pt x 41.40488pt.
 
-<./images/basic-tasks/spreadsheet-icon.png, id=954, 59.22125pt x 59.22125pt>
+<./images/basic-tasks/spreadsheet-icon.png, id=947, 59.22125pt x 59.22125pt>
 File: ./images/basic-tasks/spreadsheet-icon.png Graphic file (type png)
 
 <use ./images/basic-tasks/spreadsheet-icon.png>
@@ -2385,7 +2410,7 @@ Package pdftex.def Info: ./images/basic-tasks/spreadsheet-icon.png used on inpu
 t line 118.
 (pdftex.def)             Requested size: 40.0pt x 40.00151pt.
 
-<./images/basic-tasks/presentation-icon.png, id=955, 59.22125pt x 60.225pt>
+<./images/basic-tasks/presentation-icon.png, id=948, 59.22125pt x 60.225pt>
 File: ./images/basic-tasks/presentation-icon.png Graphic file (type png)
 
 <use ./images/basic-tasks/presentation-icon.png>
@@ -2393,7 +2418,7 @@ Package pdftex.def Info: ./images/basic-tasks/presentation-icon.png used on inp
 ut line 121.
 (pdftex.def)             Requested size: 40.0pt x 40.6795pt.
 
-<./images/basic-tasks/edit-office.png, id=957, 1284.8pt x 803.0pt>
+<./images/basic-tasks/edit-office.png, id=950, 1284.8pt x 803.0pt>
 File: ./images/basic-tasks/edit-office.png Graphic file (type png)
 
 <use ./images/basic-tasks/edit-office.png>
@@ -2409,8 +2434,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
-[55 <./images/basic-tasks/play-music2.png> <./images/basic-tasks/play-music3.pn
-g>] <./images/basic-tasks/internet1.png, id=966, 301.125pt x 155.58125pt>
+[55 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/play-music2.png> <D:/G
+ithub/Muktware-Ubuntu-Manual/images/basic-tasks/play-music3.png>]
+<./images/basic-tasks/internet1.png, id=959, 301.125pt x 155.58125pt>
 File: ./images/basic-tasks/internet1.png Graphic file (type png)
 
 <use ./images/basic-tasks/internet1.png>
@@ -2422,7 +2448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-<./images/basic-tasks/internet2.png, id=969, 299.1175pt x 157.58875pt>
+<./images/basic-tasks/internet2.png, id=962, 299.1175pt x 157.58875pt>
 File: ./images/basic-tasks/internet2.png Graphic file (type png)
 
 <use ./images/basic-tasks/internet2.png>
@@ -2430,7 +2456,7 @@ Package pdftex.def Info: ./images/basic-tasks/internet2.png used on input line
 150.
 (pdftex.def)             Requested size: 150.0pt x 79.02742pt.
 
-<./images/basic-tasks/internet3.png, id=970, 487.8225pt x 330.23375pt>
+<./images/basic-tasks/internet3.png, id=963, 487.8225pt x 330.23375pt>
 File: ./images/basic-tasks/internet3.png Graphic file (type png)
 
 <use ./images/basic-tasks/internet3.png>
@@ -2442,10 +2468,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-[56 <./images/basic-tasks/document-icon.png> <./images/basic-tasks/spreadsheet-
-icon.png> <./images/basic-tasks/presentation-icon.png> <./images/basic-tasks/ed
-it-office.png> <./images/basic-tasks/internet1.png>]
-<./images/basic-tasks/internet4.png, id=986, 463.7325pt x 487.8225pt>
+[56 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/document-icon.png> <D:
+/Github/Muktware-Ubuntu-Manual/images/basic-tasks/spreadsheet-icon.png> <D:/Git
+hub/Muktware-Ubuntu-Manual/images/basic-tasks/presentation-icon.png> <D:/Github
+/Muktware-Ubuntu-Manual/images/basic-tasks/edit-office.png> <D:/Github/Muktware
+-Ubuntu-Manual/images/basic-tasks/internet1.png>]
+<./images/basic-tasks/internet4.png, id=979, 463.7325pt x 487.8225pt>
 File: ./images/basic-tasks/internet4.png Graphic file (type png)
 
 <use ./images/basic-tasks/internet4.png>
@@ -2453,7 +2481,7 @@ Package pdftex.def Info: ./images/basic-tasks/internet4.png used on input line
 173.
 (pdftex.def)             Requested size: 200.0pt x 210.39229pt.
 
-<./images/basic-tasks/internet6.png, id=987, 303.1325pt x 314.17375pt>
+<./images/basic-tasks/internet6.png, id=980, 303.1325pt x 314.17375pt>
 File: ./images/basic-tasks/internet6.png Graphic file (type png)
 
 <use ./images/basic-tasks/internet6.png>
@@ -2470,7 +2498,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
-<./images/basic-tasks/print1.png, id=990, 1228.59pt x 793.96625pt>
+<./images/basic-tasks/print1.png, id=983, 1228.59pt x 793.96625pt>
 File: ./images/basic-tasks/print1.png Graphic file (type png)
 
 <use ./images/basic-tasks/print1.png>
@@ -2486,7 +2514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
-<./images/basic-tasks/print2.png, id=992, 772.8875pt x 481.8pt>
+<./images/basic-tasks/print2.png, id=985, 772.8875pt x 481.8pt>
 File: ./images/basic-tasks/print2.png Graphic file (type png)
 
 <use ./images/basic-tasks/print2.png>
@@ -2497,14 +2525,15 @@ Package pdftex.def Info: ./images/basic-tasks/print2.png used on input line 197
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[57 <./images/basic-tasks/internet2.png> <./images/basic-tasks/internet3.png (P
-NG copy)> <./images/basic-tasks/internet4.png (PNG copy)> <./images/basic-tasks
-/internet6.png>]
+[57 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/internet2.png> <D:/Git
+hub/Muktware-Ubuntu-Manual/images/basic-tasks/internet3.png (PNG copy)> <D:/Git
+hub/Muktware-Ubuntu-Manual/images/basic-tasks/internet4.png (PNG copy)> <D:/Git
+hub/Muktware-Ubuntu-Manual/images/basic-tasks/internet6.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 205--206
 
  []
 
-<./images/basic-tasks/thunderbird1.png, id=1006, 285.065pt x 293.095pt>
+<./images/basic-tasks/thunderbird1.png, id=999, 285.065pt x 293.095pt>
 File: ./images/basic-tasks/thunderbird1.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird1.png>
@@ -2516,9 +2545,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
-[58 <./images/basic-tasks/print1.png> <./images/basic-tasks/print2.png> <./imag
-es/basic-tasks/thunderbird1.png>]
-<./images/basic-tasks/thunderbird2.png, id=1014, 614.295pt x 437.635pt>
+[58 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/print1.png> <D:/Github
+/Muktware-Ubuntu-Manual/images/basic-tasks/print2.png> <D:/Github/Muktware-Ubun
+tu-Manual/images/basic-tasks/thunderbird1.png>]
+<./images/basic-tasks/thunderbird2.png, id=1007, 614.295pt x 437.635pt>
 File: ./images/basic-tasks/thunderbird2.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird2.png>
@@ -2530,7 +2560,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
-<./images/basic-tasks/thunderbird3.png, id=1016, 614.295pt x 437.635pt>
+<./images/basic-tasks/thunderbird3.png, id=1009, 614.295pt x 437.635pt>
 File: ./images/basic-tasks/thunderbird3.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird3.png>
@@ -2542,7 +2572,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
-<./images/basic-tasks/thunderbird4.png, id=1018, 419.5675pt x 202.7575pt>
+<./images/basic-tasks/thunderbird4.png, id=1011, 419.5675pt x 202.7575pt>
 File: ./images/basic-tasks/thunderbird4.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird4.png>
@@ -2550,7 +2580,7 @@ Package pdftex.def Info: ./images/basic-tasks/thunderbird4.png used on input li
 ne 236.
 (pdftex.def)             Requested size: 200.0pt x 96.65112pt.
 
-<./images/basic-tasks/thunderbird5.png, id=1021, 502.87875pt x 147.55125pt>
+<./images/basic-tasks/thunderbird5.png, id=1014, 502.87875pt x 147.55125pt>
 File: ./images/basic-tasks/thunderbird5.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird5.png>
@@ -2561,7 +2591,7 @@ ne 245.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./images/basic-tasks/thunderbird6.png, id=1022, 962.59625pt x 578.16pt>
+<./images/basic-tasks/thunderbird6.png, id=1015, 962.59625pt x 578.16pt>
 File: ./images/basic-tasks/thunderbird6.png Graphic file (type png)
 
 <use ./images/basic-tasks/thunderbird6.png>
@@ -2577,22 +2607,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
-[59 <./images/basic-tasks/thunderbird2.png (PNG copy)> <./images/basic-tasks/th
-underbird3.png> <./images/basic-tasks/thunderbird4.png (PNG copy)>]
-<./images/basic-tasks/firefox2.png, id=1034, 1027.84pt x 602.25pt>
+[59 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/thunderbird2.png (PNG 
+copy)> <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/thunderbird3.png> <
+D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/thunderbird4.png (PNG copy)
+>] <./images/basic-tasks/firefox2.png, id=1026, 1027.84pt x 602.25pt>
 File: ./images/basic-tasks/firefox2.png Graphic file (type png)
 
 <use ./images/basic-tasks/firefox2.png>
 Package pdftex.def Info: ./images/basic-tasks/firefox2.png used on input line 2
 62.
 (pdftex.def)             Requested size: 300.0pt x 175.77834pt.
- [60 <./images/basic-tasks/thunderbird5.png> <./images/basic-tasks/thunderbird6
-.png (PNG copy)> <./images/basic-tasks/firefox2.png (PNG copy)>]
+ [60 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/thunderbird5.png> <D:
+/Github/Muktware-Ubuntu-Manual/images/basic-tasks/thunderbird6.png (PNG copy)> 
+<D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/firefox2.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
-<./images/basic-tasks/share1.png, id=1042, 48.18pt x 46.1725pt>
+<./images/basic-tasks/share1.png, id=1034, 48.18pt x 46.1725pt>
 File: ./images/basic-tasks/share1.png Graphic file (type png)
 
 <use ./images/basic-tasks/share1.png>
@@ -2600,7 +2632,7 @@ Package pdftex.def Info: ./images/basic-tasks/share1.png used on input line 290
 .
 (pdftex.def)             Requested size: 40.0pt x 38.33301pt.
 
-<./images/basic-tasks/share2.png, id=1044, 748.7975pt x 484.81125pt>
+<./images/basic-tasks/share2.png, id=1036, 748.7975pt x 484.81125pt>
 File: ./images/basic-tasks/share2.png Graphic file (type png)
 
 <use ./images/basic-tasks/share2.png>
@@ -2612,8 +2644,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
-[61 <./images/basic-tasks/share1.png> <./images/basic-tasks/share2.png>]
-<./images/basic-tasks/share3.png, id=1053, 740.7675pt x 556.0775pt>
+[61 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/share1.png> <D:/Github
+/Muktware-Ubuntu-Manual/images/basic-tasks/share2.png>]
+<./images/basic-tasks/share3.png, id=1045, 740.7675pt x 556.0775pt>
 File: ./images/basic-tasks/share3.png Graphic file (type png)
 
 <use ./images/basic-tasks/share3.png>
@@ -2625,19 +2658,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
-<./images/basic-tasks/share4.png, id=1055, 644.4075pt x 556.0775pt>
+<./images/basic-tasks/share4.png, id=1047, 644.4075pt x 556.0775pt>
 File: ./images/basic-tasks/share4.png Graphic file (type png)
 
 <use ./images/basic-tasks/share4.png>
 Package pdftex.def Info: ./images/basic-tasks/share4.png used on input line 317
 .
 (pdftex.def)             Requested size: 300.0pt x 258.88731pt.
- [62 <./images/basic-tasks/share3.png> <./images/basic-tasks/share4.png>]
+ [62 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/share3.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/basic-tasks/share4.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
 
-<./images/basic-tasks/share8.png, id=1064, 740.7675pt x 556.0775pt>
+<./images/basic-tasks/share8.png, id=1056, 740.7675pt x 556.0775pt>
 File: ./images/basic-tasks/share8.png Graphic file (type png)
 
 <use ./images/basic-tasks/share8.png>
@@ -2649,19 +2683,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
  []
 
-<./images/basic-tasks/share9.png, id=1065, 740.7675pt x 556.0775pt>
+<./images/basic-tasks/share9.png, id=1057, 740.7675pt x 556.0775pt>
 File: ./images/basic-tasks/share9.png Graphic file (type png)
 
 <use ./images/basic-tasks/share9.png>
 Package pdftex.def Info: ./images/basic-tasks/share9.png used on input line 336
 .
 (pdftex.def)             Requested size: 300.0pt x 225.20166pt.
- [63 <./images/basic-tasks/share8.png> <./images/basic-tasks/share9.png>]
+ [63 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/share8.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/basic-tasks/share9.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
-<./images/basic-tasks/share5.png, id=1078, 644.4075pt x 556.0775pt>
+<./images/basic-tasks/share5.png, id=1070, 644.4075pt x 556.0775pt>
 File: ./images/basic-tasks/share5.png Graphic file (type png)
 
 <use ./images/basic-tasks/share5.png>
@@ -2669,19 +2704,20 @@ Package pdftex.def Info: ./images/basic-tasks/share5.png used on input line 346
 .
 (pdftex.def)             Requested size: 300.0pt x 258.88731pt.
 
-<./images/basic-tasks/share7.png, id=1079, 644.4075pt x 556.0775pt>
+<./images/basic-tasks/share7.png, id=1071, 644.4075pt x 556.0775pt>
 File: ./images/basic-tasks/share7.png Graphic file (type png)
 
 <use ./images/basic-tasks/share7.png>
 Package pdftex.def Info: ./images/basic-tasks/share7.png used on input line 353
 .
 (pdftex.def)             Requested size: 300.0pt x 258.88731pt.
- [64 <./images/basic-tasks/share5.png> <./images/basic-tasks/share7.png>]
+ [64 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/share5.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/basic-tasks/share7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
-<./images/basic-tasks/share10.png, id=1089, 740.7675pt x 556.0775pt>
+<./images/basic-tasks/share10.png, id=1081, 740.7675pt x 556.0775pt>
 File: ./images/basic-tasks/share10.png Graphic file (type png)
 
 <use ./images/basic-tasks/share10.png>
@@ -2689,7 +2725,7 @@ Package pdftex.def Info: ./images/basic-tasks/share10.png used on input line 36
 3.
 (pdftex.def)             Requested size: 300.0pt x 225.20166pt.
 
-<./images/basic-tasks/updating_emblem.png, id=1091, 50.1875pt x 50.1875pt>
+<./images/basic-tasks/updating_emblem.png, id=1083, 50.1875pt x 50.1875pt>
 File: ./images/basic-tasks/updating_emblem.png Graphic file (type png)
 
 <use ./images/basic-tasks/updating_emblem.png>
@@ -2697,7 +2733,7 @@ Package pdftex.def Info: ./images/basic-tasks/updating_emblem.png used on input
  line 376.
 (pdftex.def)             Requested size: 40.0pt x 40.00224pt.
 
-<./images/basic-tasks/synced_emblem.png, id=1092, 50.1875pt x 50.1875pt>
+<./images/basic-tasks/synced_emblem.png, id=1084, 50.1875pt x 50.1875pt>
 File: ./images/basic-tasks/synced_emblem.png Graphic file (type png)
 
 <use ./images/basic-tasks/synced_emblem.png>
@@ -2705,7 +2741,7 @@ Package pdftex.def Info: ./images/basic-tasks/synced_emblem.png used on input l
 ine 379.
 (pdftex.def)             Requested size: 40.0pt x 40.00224pt.
 
-<./images/basic-tasks/unsynced_emblem.png, id=1093, 50.1875pt x 50.1875pt>
+<./images/basic-tasks/unsynced_emblem.png, id=1085, 50.1875pt x 50.1875pt>
 File: ./images/basic-tasks/unsynced_emblem.png Graphic file (type png)
 
 <use ./images/basic-tasks/unsynced_emblem.png>
@@ -2717,7 +2753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
-<./images/basic-tasks/publish.png, id=1095, 862.22125pt x 583.17876pt>
+<./images/basic-tasks/publish.png, id=1087, 862.22125pt x 583.17876pt>
 File: ./images/basic-tasks/publish.png Graphic file (type png)
 
 <use ./images/basic-tasks/publish.png>
@@ -2743,17 +2779,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 399--400
 
  []
 
-<./images/basic-tasks/share-folder.png, id=1098, 1135.24126pt x 521.95pt>
+<./images/basic-tasks/share-folder.png, id=1090, 1135.24126pt x 521.95pt>
 File: ./images/basic-tasks/share-folder.png Graphic file (type png)
 
 <use ./images/basic-tasks/share-folder.png>
 Package pdftex.def Info: ./images/basic-tasks/share-folder.png used on input li
 ne 403.
 (pdftex.def)             Requested size: 400.0pt x 183.90376pt.
- [65 <./images/basic-tasks/share10.png> <./images/basic-tasks/updating_emblem.p
-ng> <./images/basic-tasks/synced_emblem.png> <./images/basic-tasks/unsynced_emb
-lem.png>]
-<./images/basic-tasks/share-folder2.png, id=1113, 385.44pt x 203.76125pt>
+ [65 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/share10.png> <D:/Gith
+ub/Muktware-Ubuntu-Manual/images/basic-tasks/updating_emblem.png> <D:/Github/Mu
+ktware-Ubuntu-Manual/images/basic-tasks/synced_emblem.png> <D:/Github/Muktware-
+Ubuntu-Manual/images/basic-tasks/unsynced_emblem.png>]
+<./images/basic-tasks/share-folder2.png, id=1105, 385.44pt x 203.76125pt>
 File: ./images/basic-tasks/share-folder2.png Graphic file (type png)
 
 <use ./images/basic-tasks/share-folder2.png>
@@ -2765,23 +2802,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 420--421
 
  []
 
-[66 <./images/basic-tasks/publish.png> <./images/basic-tasks/share-folder.png> 
-<./images/basic-tasks/share-folder2.png>]
-<./images/basic-tasks/play-games1.png, id=1123, 1284.8pt x 803.0pt>
+[66 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/publish.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/basic-tasks/share-folder.png> <D:/Github/Muktwa
+re-Ubuntu-Manual/images/basic-tasks/share-folder2.png>]
+<./images/basic-tasks/play-games1.png, id=1115, 1284.8pt x 803.0pt>
 File: ./images/basic-tasks/play-games1.png Graphic file (type png)
 
 <use ./images/basic-tasks/play-games1.png>
 Package pdftex.def Info: ./images/basic-tasks/play-games1.png used on input lin
 e 424.
 (pdftex.def)             Requested size: 300.0pt x 187.492pt.
-) [67 <./images/basic-tasks/play-games1.png>]
+) [67 <D:/Github/Muktware-Ubuntu-Manual/images/basic-tasks/play-games1.png>]
 Chapter 10.
-(./tex/advanced-topics.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\advanced-topics.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<./images/advanced-topics/gnomeshell1.png, id=1131, 991.705pt x 759.83875pt>
+<./images/advanced-topics/gnomeshell1.png, id=1123, 991.705pt x 759.83875pt>
 File: ./images/advanced-topics/gnomeshell1.png Graphic file (type png)
 
 <use ./images/advanced-topics/gnomeshell1.png>
@@ -2790,18 +2828,19 @@ Package pdftex.def Info: ./images/advanced-topics/gnomeshell1.png used on input
 (pdftex.def)             Requested size: 350.0pt x 268.16203pt.
  [68
 
- <./images/advanced-topics/gnomeshell1.png>]
-<./images/advanced-topics/gnomeshell2.png, id=1140, 726.715pt x 464.73625pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/advanced-topics/gnomeshell1.png>]
+<./images/advanced-topics/gnomeshell2.png, id=1132, 726.715pt x 464.73625pt>
 File: ./images/advanced-topics/gnomeshell2.png Graphic file (type png)
 
 <use ./images/advanced-topics/gnomeshell2.png>
 Package pdftex.def Info: ./images/advanced-topics/gnomeshell2.png used on input
  line 26.
 (pdftex.def)             Requested size: 300.0pt x 191.85498pt.
-) [69 <./images/advanced-topics/gnomeshell2.png>]
+) [69 <D:/Github/Muktware-Ubuntu-Manual/images/advanced-topics/gnomeshell2.png>
+]
 Chapter 11.
-(./tex/working-ubuntu.tex
-<./images/work-ubuntu/workspace-icon.png, id=1150, 64.24pt x 63.23625pt>
+(D:\Github\Muktware-Ubuntu-Manual\tex\working-ubuntu.tex
+<./images/work-ubuntu/workspace-icon.png, id=1142, 64.24pt x 63.23625pt>
 File: ./images/work-ubuntu/workspace-icon.png Graphic file (type png)
 
 <use ./images/work-ubuntu/workspace-icon.png>
@@ -2828,7 +2867,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
-<./images/work-ubuntu/workspaces.png, id=1153, 1284.8pt x 803.0pt>
+<./images/work-ubuntu/workspaces.png, id=1145, 1284.8pt x 803.0pt>
 File: ./images/work-ubuntu/workspaces.png Graphic file (type png)
 
 <use ./images/work-ubuntu/workspaces.png>
@@ -2842,8 +2881,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 [70
 
- <./images/work-ubuntu/workspace-icon.png>]
-<./images/work-ubuntu/alt-tab.png, id=1163, 1284.8pt x 803.0pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/work-ubuntu/workspace-icon.png>]
+<./images/work-ubuntu/alt-tab.png, id=1155, 1284.8pt x 803.0pt>
 File: ./images/work-ubuntu/alt-tab.png Graphic file (type png)
 
 <use ./images/work-ubuntu/alt-tab.png>
@@ -2855,7 +2894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<./images/work-ubuntu/alt-grave.png, id=1165, 1284.8pt x 803.0pt>
+<./images/work-ubuntu/alt-grave.png, id=1157, 1284.8pt x 803.0pt>
 File: ./images/work-ubuntu/alt-grave.png Graphic file (type png)
 
 <use ./images/work-ubuntu/alt-grave.png>
@@ -2867,8 +2906,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-[71 <./images/work-ubuntu/workspaces.png> <./images/work-ubuntu/alt-tab.png>]
-<./images/work-ubuntu/spread-view.png, id=1177, 1284.8pt x 803.0pt>
+[71 <D:/Github/Muktware-Ubuntu-Manual/images/work-ubuntu/workspaces.png> <D:/Gi
+thub/Muktware-Ubuntu-Manual/images/work-ubuntu/alt-tab.png>]
+<./images/work-ubuntu/spread-view.png, id=1168, 1284.8pt x 803.0pt>
 File: ./images/work-ubuntu/spread-view.png Graphic file (type png)
 
 <use ./images/work-ubuntu/spread-view.png>
@@ -2880,8 +2920,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-[72 <./images/work-ubuntu/alt-grave.png> <./images/work-ubuntu/spread-view.png>
-] <./images/work-ubuntu/number-overlay1.png, id=1186, 60.225pt x 59.22125pt>
+[72 <D:/Github/Muktware-Ubuntu-Manual/images/work-ubuntu/alt-grave.png> <D:/Git
+hub/Muktware-Ubuntu-Manual/images/work-ubuntu/spread-view.png>]
+<./images/work-ubuntu/number-overlay1.png, id=1177, 60.225pt x 59.22125pt>
 File: ./images/work-ubuntu/number-overlay1.png Graphic file (type png)
 
 <use ./images/work-ubuntu/number-overlay1.png>
@@ -2889,7 +2930,7 @@ Package pdftex.def Info: ./images/work-ubuntu/number-overlay1.png used on input
  line 67.
 (pdftex.def)             Requested size: 40.0pt x 39.33463pt.
 
-<./images/work-ubuntu/number-overlay2.png, id=1187, 58.2175pt x 59.22125pt>
+<./images/work-ubuntu/number-overlay2.png, id=1178, 58.2175pt x 59.22125pt>
 File: ./images/work-ubuntu/number-overlay2.png Graphic file (type png)
 
 <use ./images/work-ubuntu/number-overlay2.png>
@@ -2897,7 +2938,7 @@ Package pdftex.def Info: ./images/work-ubuntu/number-overlay2.png used on input
  line 70.
 (pdftex.def)             Requested size: 40.0pt x 40.691pt.
 
-<./images/work-ubuntu/number-overlay3.png, id=1188, 59.22125pt x 58.2175pt>
+<./images/work-ubuntu/number-overlay3.png, id=1179, 59.22125pt x 58.2175pt>
 File: ./images/work-ubuntu/number-overlay3.png Graphic file (type png)
 
 <use ./images/work-ubuntu/number-overlay3.png>
@@ -2905,7 +2946,7 @@ Package pdftex.def Info: ./images/work-ubuntu/number-overlay3.png used on input
  line 73.
 (pdftex.def)             Requested size: 40.0pt x 39.32353pt.
 
-<./images/work-ubuntu/number-overlay4.png, id=1189, 60.225pt x 59.22125pt>
+<./images/work-ubuntu/number-overlay4.png, id=1180, 60.225pt x 59.22125pt>
 File: ./images/work-ubuntu/number-overlay4.png Graphic file (type png)
 
 <use ./images/work-ubuntu/number-overlay4.png>
@@ -2927,18 +2968,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<./images/work-ubuntu/shortcut-overlay.png, id=1192, 943.525pt x 692.5875pt>
+<./images/work-ubuntu/shortcut-overlay.png, id=1183, 943.525pt x 692.5875pt>
 File: ./images/work-ubuntu/shortcut-overlay.png Graphic file (type png)
 
 <use ./images/work-ubuntu/shortcut-overlay.png>
 Package pdftex.def Info: ./images/work-ubuntu/shortcut-overlay.png used on inpu
 t line 87.
 (pdftex.def)             Requested size: 325.0pt x 238.56248pt.
-) [73 <./images/work-ubuntu/number-overlay1.png> <./images/work-ubuntu/number-o
-verlay2.png> <./images/work-ubuntu/number-overlay3.png> <./images/work-ubuntu/n
-umber-overlay4.png> <./images/work-ubuntu/shortcut-overlay.png>]
+) [73 <D:/Github/Muktware-Ubuntu-Manual/images/work-ubuntu/number-overlay1.png>
+ <D:/Github/Muktware-Ubuntu-Manual/images/work-ubuntu/number-overlay2.png> <D:/
+Github/Muktware-Ubuntu-Manual/images/work-ubuntu/number-overlay3.png> <D:/Githu
+b/Muktware-Ubuntu-Manual/images/work-ubuntu/number-overlay4.png> <D:/Github/Muk
+tware-Ubuntu-Manual/images/work-ubuntu/shortcut-overlay.png>]
 Chapter 12.
-(./tex/customizing-ubuntu.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\customizing-ubuntu.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -2956,7 +2999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 [74
 
 ]
-<./images/customize-ubuntu/appearance-look.png, id=1214, 744.7825pt x 583.17876
+<./images/customize-ubuntu/appearance-look.png, id=1205, 744.7825pt x 583.17876
 pt>
 File: ./images/customize-ubuntu/appearance-look.png Graphic file (type png)
  <use ./images/customize-ubuntu/appearance-look.png>
@@ -2964,7 +3007,7 @@ Package pdftex.def Info: ./images/customize-ubuntu/appearance-look.png used on
 input line 25.
 (pdftex.def)             Requested size: 300.0pt x 234.9136pt.
 
-<./images/customize-ubuntu/appearance-behavior.png, id=1217, 744.7825pt x 560.0
+<./images/customize-ubuntu/appearance-behavior.png, id=1208, 744.7825pt x 560.0
 925pt>
 File: ./images/customize-ubuntu/appearance-behavior.png Graphic file (type png)
 
@@ -2972,13 +3015,14 @@ File: ./images/customize-ubuntu/appearance-behavior.png Graphic file (type png)
 Package pdftex.def Info: ./images/customize-ubuntu/appearance-behavior.png used
  on input line 35.
 (pdftex.def)             Requested size: 250.0pt x 188.00177pt.
- [75 <./images/customize-ubuntu/appearance-look.png> <./images/customize-ubuntu
-/appearance-behavior.png>]
+ [75 <D:/Github/Muktware-Ubuntu-Manual/images/customize-ubuntu/appearance-look.
+png> <D:/Github/Muktware-Ubuntu-Manual/images/customize-ubuntu/appearance-behav
+ior.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-<./images/customize-ubuntu/gcc.png, id=1229, 744.7825pt x 660.4675pt>
+<./images/customize-ubuntu/gcc.png, id=1220, 744.7825pt x 660.4675pt>
 File: ./images/customize-ubuntu/gcc.png Graphic file (type png)
 
 <use ./images/customize-ubuntu/gcc.png>
@@ -2990,7 +3034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-<./images/customize-ubuntu/privacy.png, id=1231, 744.7825pt x 560.0925pt>
+<./images/customize-ubuntu/privacy.png, id=1222, 744.7825pt x 560.0925pt>
 File: ./images/customize-ubuntu/privacy.png Graphic file (type png)
 
 <use ./images/customize-ubuntu/privacy.png>
@@ -3002,9 +3046,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-[76 <./images/customize-ubuntu/gcc.png> <./images/customize-ubuntu/privacy.png>
-]
-<./images/customize-ubuntu/privacy-files.png, id=1242, 744.7825pt x 560.0925pt>
+[76 <D:/Github/Muktware-Ubuntu-Manual/images/customize-ubuntu/gcc.png> <D:/Gith
+ub/Muktware-Ubuntu-Manual/images/customize-ubuntu/privacy.png>]
+<./images/customize-ubuntu/privacy-files.png, id=1233, 744.7825pt x 560.0925pt>
 File: ./images/customize-ubuntu/privacy-files.png Graphic file (type png)
 <use ./images/customize-ubuntu/privacy-files.png>
 Package pdftex.def Info: ./images/customize-ubuntu/privacy-files.png used on in
@@ -3016,7 +3060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
  []
 
 
-<./images/customize-ubuntu/privacy-applications.png, id=1244, 744.7825pt x 560.
+<./images/customize-ubuntu/privacy-applications.png, id=1235, 744.7825pt x 560.
 0925pt>
 File: ./images/customize-ubuntu/privacy-applications.png Graphic file (type png
 )
@@ -3024,13 +3068,15 @@ File: ./images/customize-ubuntu/privacy-applications.png Graphic file (type png
 Package pdftex.def Info: ./images/customize-ubuntu/privacy-applications.png use
 d on input line 75.
 (pdftex.def)             Requested size: 300.0pt x 225.61409pt.
-) [77 <./images/customize-ubuntu/privacy-files.png> <./images/customize-ubuntu/
-privacy-applications.png>] [78
+) [77 <D:/Github/Muktware-Ubuntu-Manual/images/customize-ubuntu/privacy-files.p
+ng> <D:/Github/Muktware-Ubuntu-Manual/images/customize-ubuntu/privacy-applicati
+ons.png>]
+[78
 
 ]
 Chapter 13.
-(./tex/get-help.tex
-<./images/get-help/officialubuntuhelp.png, id=1257, 876.27374pt x 622.325pt>
+(D:\Github\Muktware-Ubuntu-Manual\tex\get-help.tex
+<./images/get-help/officialubuntuhelp.png, id=1248, 876.27374pt x 622.325pt>
 File: ./images/get-help/officialubuntuhelp.png Graphic file (type png)
 
 <use ./images/get-help/officialubuntuhelp.png>
@@ -3039,8 +3085,8 @@ Package pdftex.def Info: ./images/get-help/officialubuntuhelp.png used on input
 (pdftex.def)             Requested size: 350.0pt x 248.57423pt.
  [79
 
- <./images/get-help/officialubuntuhelp.png>]
-<./images/get-help/ubuntuforums.png, id=1266, 918.43124pt x 634.37pt>
+ <D:/Github/Muktware-Ubuntu-Manual/images/get-help/officialubuntuhelp.png>]
+<./images/get-help/ubuntuforums.png, id=1257, 918.43124pt x 634.37pt>
 File: ./images/get-help/ubuntuforums.png Graphic file (type png)
 
 <use ./images/get-help/ubuntuforums.png>
@@ -3048,37 +3094,37 @@ Package pdftex.def Info: ./images/get-help/ubuntuforums.png used on input line
 21.
 (pdftex.def)             Requested size: 350.0pt x 241.75035pt.
 
-<./images/get-help/askubuntu.png, id=1268, 880.28876pt x 587.19376pt>
+<./images/get-help/askubuntu.png, id=1259, 880.28876pt x 587.19376pt>
 File: ./images/get-help/askubuntu.png Graphic file (type png)
 
 <use ./images/get-help/askubuntu.png>
 Package pdftex.def Info: ./images/get-help/askubuntu.png used on input line 31.
 
 (pdftex.def)             Requested size: 350.0pt x 233.46664pt.
- [80 <./images/get-help/ubuntuforums.png> <./images/get-help/askubuntu.png>]
-<./images/get-help/locoteams.png, id=1280, 952.55875pt x 674.52pt>
+ [80 <D:/Github/Muktware-Ubuntu-Manual/images/get-help/ubuntuforums.png> <D:/Gi
+thub/Muktware-Ubuntu-Manual/images/get-help/askubuntu.png>]
+<./images/get-help/locoteams.png, id=1271, 952.55875pt x 674.52pt>
 File: ./images/get-help/locoteams.png Graphic file (type png)
 
 <use ./images/get-help/locoteams.png>
 Package pdftex.def Info: ./images/get-help/locoteams.png used on input line 41.
 
 (pdftex.def)             Requested size: 350.0pt x 247.83939pt.
-) [81 <./images/get-help/locoteams.png>]
-[82
+) [81 <D:/Github/Muktware-Ubuntu-Manual/images/get-help/locoteams.png>] [82
 
 ]
 Chapter 14.
-(./tex/contributors.tex) [83
+(D:\Github\Muktware-Ubuntu-Manual\tex\contributors.tex) [83
 
 ] [84
 
 ]
 Chapter 15.
-(./tex/appendixA.tex) [85
+(D:\Github\Muktware-Ubuntu-Manual\tex\appendixA.tex) [85
 
 ]
 Chapter 16.
-(./tex/appendixB.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\appendixB.tex
 Overfull \hbox (4.9114pt too wide) in paragraph at lines 5--53
  [][] 
  []
@@ -3087,65 +3133,59 @@ Overfull \hbox (4.9114pt too wide) in paragraph at lines 5--53
 
 ]
 Chapter 17.
-(./tex/appendixC.tex
+(D:\Github\Muktware-Ubuntu-Manual\tex\appendixC.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-) (./ubuntu-manual.ind [87
+) (D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.ind [87
 
 ] [88
 
 ])
-<./images/logo.jpg, id=1395, 569.12625pt x 552.0625pt>
+<./images/logo.jpg, id=1385, 569.12625pt x 552.0625pt>
 File: ./images/logo.jpg Graphic file (type jpg)
  <use ./images/logo.jpg>
-Package pdftex.def Info: ./images/logo.jpg used on input line 146.
+Package pdftex.def Info: ./images/logo.jpg used on input line 147.
 (pdftex.def)             Requested size: 100.0pt x 96.99988pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
 
 [89
 
- <./images/logo.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
- (./ubuntu-manual.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+ <D:/Github/Muktware-Ubuntu-Manual/images/logo.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
 
+(D:\Github\Muktware-Ubuntu-Manual\ubuntu-manual.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package rerunfilecheck Info: File `ubuntu-manual.out' has not changed.
+(rerunfilecheck)             Checksum: FB08589B046802B8DDCB38A128EAAAB9;4705.
 
-Package rerunfilecheck Warning: File `ubuntu-manual.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ubuntu-manual.out':
-(rerunfilecheck)             Before: 6017CE543EFF910A77F8CE6838C55919;4374
-(rerunfilecheck)             After:  F1FC1DD9DEA92F061E56029470078EBA;4637.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 12297 strings out of 495059
- 195624 string characters out of 3182030
- 281759 words of memory out of 3000000
- 14756 multiletter control sequences out of 15000+200000
+ 12197 strings out of 494045
+ 195339 string characters out of 3148374
+ 280622 words of memory out of 3000000
+ 14770 multiletter control sequences out of 15000+200000
  10807 words of font info for 40 fonts, out of 3000000 for 9000
- 14 hyphenation exceptions out of 8191
- 44i,18n,46p,1308b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/krnekhelesh/.texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.600pk></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmtt10.pfb>
-Output written on ubuntu-manual.pdf (93 pages, 16743538 bytes).
+ 715 hyphenation exceptions out of 8191
+ 44i,18n,46p,1309b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Nekhelesh\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\tcss1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb>
+Output written on ubuntu-manual.pdf (93 pages, 16877384 bytes).
 PDF statistics:
- 1511 PDF objects out of 1728 (max. 8388607)
- 1194 compressed objects within 12 object streams
+ 1498 PDF objects out of 1728 (max. 8388607)
  353 named destinations out of 1000 (max. 500000)
  1300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
