@@ -1,6 +1,6 @@
-This is makeindex, version 2.15 [TeX Live 2009] (kpathsea + Thai support).
-Scanning input file ubuntu-manual.idx....done (62 entries accepted, 0 rejected).
-Sorting entries....done (414 comparisons).
-Generating output file ubuntu-manual.ind....done (119 lines written, 0 warnings).
+This is makeindex, version 2.15 [TeX Live 2012] (kpathsea + Thai support).
+Scanning input file ubuntu-manual.idx....done (64 entries accepted, 0 rejected).
+Sorting entries....done (372 comparisons).
+Generating output file ubuntu-manual.ind....done (124 lines written, 0 warnings).
 Output written in ubuntu-manual.ind.
 Transcript written in ubuntu-manual.ilg.

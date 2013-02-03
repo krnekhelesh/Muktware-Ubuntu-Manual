@@ -20,7 +20,7 @@
   \item deb, \hyperpage{37}
   \item Developer, \hyperpage{10}
   \item Download Ubuntu, \hyperpage{11}
-    \subitem Buy CD, \hyperpage{11}
+    \subitem Buy CD, \hyperpage{12}
     \subitem Direct Link, \hyperpage{11}
     \subitem Torrent, \hyperpage{11}
 
@@ -70,6 +70,7 @@
 
   \indexspace
 
+  \item Personal Cloud, \hyperpage{61}
   \item Personal Package Archive, \hyperpage{38}
   \item Print, \hyperpage{57}
   \item Privacy, \hyperpage{76}
@@ -111,6 +112,10 @@
   \indexspace
 
   \item Virtual Workspaces, \hyperpage{70}
+
+  \indexspace
+
+  \item Web Storage, \hyperpage{61}
 
   \indexspace
 
