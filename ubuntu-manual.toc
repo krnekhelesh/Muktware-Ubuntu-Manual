@@ -32,7 +32,7 @@
 \contentsline {chapter}{\numberline {8}Terminal basics}{42}{chapter.8}
 \contentsline {section}{\numberline {8.1}SUDO command}{44}{section.8.1}
 \contentsline {section}{\numberline {8.2}Creating/Removing directories and files}{45}{section.8.2}
-\contentsline {section}{\numberline {8.3}Moving/Coping directories and files}{46}{section.8.3}
+\contentsline {section}{\numberline {8.3}Moving/Copying directories and files}{46}{section.8.3}
 \contentsline {section}{\numberline {8.4}Submitting bug reports}{48}{section.8.4}
 \contentsline {section}{\numberline {8.5}Installing/Uninstalling packages}{49}{section.8.5}
 \contentsline {chapter}{\numberline {9}Performing basic tasks}{52}{chapter.9}
