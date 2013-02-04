@@ -1,10 +1,10 @@
 TODO
 tex/*.log
+*.log
 ubuntu-manual.aux
 ubuntu-manual.fdb_latexmk
 ubuntu-manual.idx
 ubuntu-manual.ind
-ubuntu-manual.log
 ubuntu-manual.synctex.gz
 ubuntu-manual.toc
 ubuntu-manual.out
